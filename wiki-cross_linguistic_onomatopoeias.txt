@@ -1,0 +1,2173 @@
+{{multiple issues|
+{{Refimprove|date=November 2010}}
+{{Original research|date=November 2010}}
+}}
+
+{{Contains Indic text}}
+Because of the nature of [[onomatopoeia]], there are many words which show a similar pronunciation in the languages of the world. The following is a list of some conventional examples:
+
+{{TOC right}}
+{{dynamic list}}
+
+==Human sounds==
+
+===Baby crying===
+*In [[Afrikaans language|Afrikaans]], ''Wê''
+*In [[Albanian language|Albanian]], ''ua-ua''
+*In [[Arabic language|Arabic]], ''waa'-waa'''
+*In [[Batak language|Batak]], ''nguek nguek''
+*In [[Bengali language|Bengali]]: ওয়া ওয়া ''oaa oaa''
+*In [[Bulgarian language|Bulgarian]], уааааа - уааааа (uaaaa - uaaaa)
+*In [[Catalan language|Catalan]], ''anguèè''
+*In [[Standard Mandarin|Chinese, Mandarin]], ''wā wā'' 哇哇<ref group="zho">[http://www.zdic.net/cd/ci/9/ZdicE5Zdic93Zdic87113412.htm "哇哇"] in [http://zdic.net/ Han Dian online dictionary]</ref>
+*In [[Czech language|Czech]], ''bé bé'' {{IPA|[bɛː]}}
+*In [[English language|English]], ''wah-wah''<ref group="eng">"[http://dictionary.oed.com/cgi/display/50279864?keytype=ref&ijkey=rZsysc3bBwpdM ''wah-wah'']" from the [[Oxford English Dictionary]]</ref>
+*In [[Filipino language|Filipino]], ''uwá''
+*In [[Finnish language|Finnish]], ''byääh, yää''
+*In [[French language|French]], ''Ouin! Ouin!''
+*In [[German language|German]], ''wäh-wäh''
+*In [[Greek language|Greek]], ''ουά-ουά''<ref group="gre">http://www.greek-language.gr/greekLang/modern_greek/tools/lexica/triantafyllides/search.html?lq=%CE%BF%CF%85%CE%AC&dq=</ref> (/uaua/)
+*In [[Hungarian language|Hungarian]], ''oá oá''
+*In [[Indonesian language|Indonesian]], ''owe-owe''
+*In [[Italian language|Italian]], ''uè-uè''
+*In [[Japanese language|Japanese]], ''ogyaa'' {{lang|ja|おぎゃあ}} <ref group="jpn">http://dic.yahoo.co.jp/dsearch?enc=UTF-8&p=%E3%81%8A%E3%81%8E%E3%82%83%E3%81%82&dtype=0&dname=0ss&stype=0&pagenum=1&index=102476500000</ref>
+*In [[Korean language|Korean]], ''eung'ae-eung'ae'' 응애-응애
+*In [[Marathi language|Marathi]], ''tya tya'' ट्या ट्या
+*In [[Persian language|Persian]], ''vang-vang''
+*In [[Polish Language|Polish]], ''łee''
+*In [[Portuguese language|Portuguese]], ''buá buá''
+*In [[Romanian language|Romanian]], ''oa-oa'', ''ue-ue''
+*In [[Russian language|Russian]], ''ua-ua'' уа-уа
+*In [[Spanish language|Spanish]], ''buá buá''
+*In [[Swedish language|Swedish]], ''uää-uää''
+*In [[Thai language|Thai]], {{lang|th|อุแว้ อุแว้}} (''uwae uwae''), {{lang|th|แง้ แง้}} (''ngae ngae'')
+*In [[Turkish language|Turkish]], ''ıngaa''
+*In [[Vietnamese language|Vietnamese]], ''oa oa'', ''oe oe''
+
+===Bite===
+*In [[Afrikaans language|Afrikaans]], ''nom, gomf''
+*In [[Arabic language|Arabic]], ''hum-hum''
+*In [[Bulgarian language|Bulgarian]], хрус (hrus), мляс (mlias) 
+*In [[Croatian language|Croatian]], ''gric''
+*In [[Czech language|Czech]], ''chřup'' {{IPA|[xr̝up]}}, ''chroup'' {{IPA|[xroup]}}
+*In [[English language|English]], ''chomp'', ''munch'', ''nom'' (more recent)
+*In [[Estonian language|Estonian]], ''amps''
+*In [[Finnish language|Finnish]], ''rousk''
+*In French, ''miam''
+*In [[German language|German]], ''mampf''
+*In [[Hungarian language|Hungarian]], ''nyam-nyam''
+*In [[Indonesia language|Indonesian]], ''krauk''
+*In [[Italian language|Italian]] ''gnam''
+*In [[Japanese language|Japanese]], ''musha-musha'' {{lang|ja|むしゃむしゃ}}  <ref group="jpn">http://dic.yahoo.co.jp/dsearch?p=%E3%82%80%E3%81%97%E3%82%83%E3%82%80%E3%81%97%E3%82%83&stype=0&dtype=0</ref>
+*In [[Korean language|Korean]], ''wajak-wajak'' 와작와작
+*In [[Marathi language|Marathi]], ''Lachka'' लचका
+*In [[Polish language|Polish]], ''chrum, chrup, hap''
+*In [[Portuguese language|Portuguese]], ''nhac'', ''nhoc''
+*In [[Romanian language|Romanian]], ''hap!, haț!''
+*In [[Russian language|Russian]], ''khrum'' хрум
+*In [[Serbian language|Serbian]], ''gric''{{IPA|[grits]}}
+*In [[Slovak language|Slovak]], ''chrum''
+*In [[Spanish language|Spanish]], ''ñam''
+*In [[Swedish language|Swedish]], ''nam-nam''
+*In [[Thai language|Thai]], {{lang|th|งั่บ}} (''ngap''), {{lang|th|ง่ำ}} (''ngam'')
+*In [[Turkish language|Turkish]], ''hart, hurt''
+*In [[Vietnamese language|Vietnamese]], ''ngoạm''
+
+===Burp===
+*In [[Batak language|Batak]], ''org''
+*In [[Bulgarian language|Bulgarian]], "уриг" "urig"
+*In [[Catalan language|Catalan]], "rot"
+*In [[Czech language|Czech]], ''krk''
+*In [[Danish language|Danish]], ''bøvs''
+*In [[Dutch language|Dutch]], ''boer''
+*In [[English language|English]], ''burp''
+*In [[Finnish language|Finnish]], ''röyh''
+*In [[French language|French]], ''rôte''
+*In [[German language|German]], ''rülps''
+*In [[Hebrew language|Hebrew]], ''greps'' גְּרֶפְּס
+*In [[Hungarian language|Hungarian]], ''böff''
+*In [[Indonesia language|Indonesian]], ''erk''
+*In [[Italian language|Italian]], ''rutt''
+*In [[Japanese language|Japanese]], ''geppu'' ゲップ
+*In [[Korean language|Korean]], ''kkeo-eok'' 꺼억
+*In [[Latin language|Latin]], ''ruct''
+*In [[Marathi language|Marathi]], ''dhekar'' ढेकर
+*In [[Persian language|Persian]], ''ārūγ''
+*In [[Polish language|Polish]], ''bek''
+*In [[Romanian language|Romanian]], ''râg'' (a râgâi = to burp)
+*In [[Slovak language|Slovak]], ''grg''
+*In [[Swedish language|Swedish]], ''rap''
+*In [[Filipino language|Tagalog]], ''ebb''
+*In [[Thai language|Thai]], {{lang|th|เอิ่ก}} (''oek'')
+*In [[Vietnamese language|Vietnamese]], ''ợ''
+
+===Fart===
+*In [[Afrikaans language|Afrikaans]], ''poep''
+*In [[Arabic language|Arabic]], ''żerṭa''
+*In [[Batak language|Batak]], ''put''
+*In [[Bulgarian language|Bulgarian]], "пръц" (pratz)
+*In [[Czech language|Czech]], ''prd''
+*In [[Danish language|Danish]], ''prut'', ''fis''
+*In [[Dutch language|Dutch]], ''scheet''
+*In [[English language|English]], ''fart, poot, toot''
+*In [[Finnish language|Finnish]], ''prut, prööt''
+*In [[French language|French]], ''prout, pête''
+*In [[German language|German]], ''pups''
+*In [[Hebrew language|Hebrew]], ''pook'' פּוּק, ''flotz'' פלוץ.
+*In [[Hungarian language|Hungarian]], ''pú''
+*In [[Indonesian language|Indonesian]], ''pret, prett, tuut''
+*In [[Italian language|Italian]], ''prot''
+*In [[Japanese language|Japanese]], ''bu'' {{lang|ja|ぶっ}}
+*In [[Korean language|Korean]], ''bbung'' 뿡
+*In [[Latin language|Latin]], ''prox''
+*In [[Lithuanian language|Lithuanian]], ''pirst''
+*In [[Marathi language|Marathi]], ''pad'' पाद, ''phuski'' फुसकी
+*In [[Persian language|Persian]], ''pup''
+*In [[Polish language|Polish]], ''prrryt''
+*In [[Portuguese language|Portuguese]] ''pum''
+*In [[Romanian language|Romanian]] ''pârț''
+*In [[Russian language|Russian]], ''pook'' пук
+*In [[Spanish language|Spanish]], ''pun'', ''peo''
+*In [[Swedish language|Swedish]], ''prutt''
+*In [[Tagalog language|Tagalog]], ''purorót'', ''utót''
+*In [[Thai language|Thai]], {{lang|th|ปู้ด}} (''puut''), {{lang|th|ป้าด}} (''pät'')
+*In [[Turkish language|Turkish]] ''zart, zort, pırt''
+*In [[Vietnamese language|Vietnamese]] ''phẹt, bủm, địt''
+
+===Food being eaten===
+*In [[Arabic language|Arabic]], ''humm''
+*In [[Batak language|Batak]], ''nyaum nyaum''
+*In [[Bengali language|Bengali]]: গব গব ''gob gob'' গবা গব ''goba gob'' সপা সপ ''sopa sop'' 
+*In [[Bulgarian language|Bulgarian]], ''am am'' ам ам
+*In [[Catalan language|Catalan]], ''nyam nyam''
+*In [[Croatian language|Croatian]], ''njam njam''
+*In [[Czech language|Czech]], ''ham'', ''ňam ňam'' {{IPA|[ɲam]}},  ''mňam mňam'' {{IPA|[mɲam]}}
+*In [[Danish language|Danish]], ''nam nam'', ''mam mam''
+*In [[Dutch language|Dutch]], ''jam jam''
+*In [[English language|English]] ''yum yum'', ''om nom nom'', ''slurp slurp''
+*In [[Estonian language|Estonian]], ''näm näm'', ''nämm nämm''
+*In [[Finnish language|Finnish]], ''nam nam'', ''nami nami''
+*In [[French language|French]], ''miam miam''
+*In [[German language|German]], ''mampf mampf'', ''hamm hamm''
+*In [[Hebrew language|Hebrew]], ''amm amm'' אָממ אָממ
+*In [[Hungarian language|Hungarian]], ''nyamm nyamm'', ''hamm hamm''
+*In [[Icelandic language|Icelandic]], ''namm namm''
+*In [[Indonesian language|Indonesian]], ''nyam nyam''
+*In [[Italian language|Italian]], ''gnam gnam''
+*In [[Japanese language|Japanese]], {{lang|ja|もぐもぐ}} (''mogu mogu''),<ref group="jpn">http://dic.yahoo.co.jp/dsearch?p=%E3%82%82%E3%81%90%E3%82%82%E3%81%90&stype=0&dtype=0</ref> {{lang|ja|パクパク}} (''paku paku'')<ref group="jpn">http://dic.yahoo.co.jp/dsearch?p=%E3%83%91%E3%82%AF%E3%83%91%E3%82%AF&stype=0&dtype=0</ref>
+*In [[Korean language|Korean]], ''nyam nyam'' 냠냠, ''yam yam'' 얌얌, ''jjub jjub'' 쩝쩝
+*In [[Latvian language|Latvian]], ''ņam ņam''
+*In [[Lithuanian language|Lithuanian]], ''niam niam''
+*In [[Marathi language|Marathi]], ''mam mam'' मम् मम्, ''gapagap'' गपागप
+*In [[Norwegian language|Norwegian]], ''nam nam''
+*In [[Polish language|Polish]], ''mniam mniam'', ''chrup chrup'' (if hard), ''mlask''
+*In [[Portuguese language|Portuguese]], ''nham nham''
+*In [[Romanian language|Romanian]], ''miam miam'', ''niam niam'', ''pleasc-pleasc''
+*In [[Russian language|Russian]], ''am'' ам (quick), ''njam-njam'' ням-ням
+*In [[Serbian language|Serbian]], ''njam-njam'' њам-њам
+*In [[Slovak language|Slovak]], ''mňam'', ''ham''
+*In [[Spanish language|Spanish]], ''ñam ñam'', ''chomp chomp''
+*In [[Swedish language|Swedish]], ''nam nam''
+*In [[Filipino language|Tagalog]], ''nam nam''
+*In [[Tamil language|Tamil]], ''karukk murukk''
+*In [[Thai language|Thai]], {{lang|th|ง่ำ ง่ำ}} (''ngam ngam'')
+*In [[Turkish language|Turkish]], ''ham hum'', ''nam nam''
+*In [[Vietnamese language|Vietnamese]], ''măm măm'', ''nhăm nhăm'', ''nhồm nhoàm'', ''chàm chạp''
+
+===Heart beating===
+*In [[Afrikaans language|Afrikaans]], ''doef doef''
+*In [[Arabic]], ''tum tum'', '' raṭama-raṭama رطم رطم
+*In [[Batak language|Batak]], ''bar-bar-bar''
+*In [[Bengali language|Bengali]]: দুরদুর ''durdur'', দুরুদুরু ''duruduru, ''লাব ডুব ''lāb dub''
+*In [[Bulgarian language|Bulgarian]], ''tup, tup'' туп-туп
+*In [[Catalan language|Catalan]], ''tu-tum tu-tum'', ''pu-pum pu-pum''
+*In [[Standard Cantonese|Chinese, Cantonese]], ''bìhng-bìhng'' 怦怦
+*In [[Standard Mandarin|Chinese, Mandarin]], ''pēng pēng'' 怦怦 <ref group="zho">[http://www.zdic.net/cd/ci/10/ZdicE7ZdicA0ZdicB0225902.htm "怦怦"] in [http://zdic.net/ Han Dian online dictionary]</ref>
+*In [[Croatian language|Croatian]], ''tup tup'', ''bum bum''
+*In [[Czech language|Czech]], ''buch buch''
+*In [[Danish Language|Danish]], ''dunk dunk'', ''bank bank''
+*In [[Dutch language|Dutch]], ''boenk boenk'', ''boem boem''
+*In [[English language|English]], ''thump thump'', ''ba boom'', ''ba bump'', ''lub-dub''
+*In [[Estonian language|Estonian]], ''tuks tuks''
+*In [[French language|French]], ''bom bom'', ''poum poum''
+*In [[Finnish language|Finnish]], ''tu-tum'', ''pu-pum''
+*In [[German language|German]], ''ba-dumm'', ''bumm bumm'', ''poch poch''
+*In [[Greek language|Greek]], ''ntouk-ntouk''
+*In [[Hebrew language|Hebrew]], ''bum-búm'' בּוּם־בּוּם
+*In [[Hindi language|Hindi]] ''daḍak'' (pronounced {{IPA-hns|ˈd̪əɖək|}}) and [[Urdu]] ''dhakdhak''
+*In [[Indonesian language|Indonesian]], ''dag-dig-dug'', ''deg-degan''
+*In [[Italian language|Italian]], ''tu tump''
+*In [[Japanese language|Japanese]], (nervous excitement) {{lang|ja|ドキドキ}} (''doki doki''), (suspense, thrill)<ref group="jpn">http://dic.yahoo.co.jp/dsearch?p=%E3%81%A9%E3%81%8D%E3%81%A9%E3%81%8D&stype=0&dtype=0</ref>
+*In [[Kannada language|Kannada]], ''dub bub'', ''dava dava''
+*In [[Korean language|Korean]], ''doogeun doogeun'' {{lang|ko|두근두근}}
+*In [[Latvian language|Latvian]], ''tuk tuk''
+*In [[Lithuanian language|Lithuanian]], ''tuk tuk''
+*In [[Macedonian language|Macedonian]], ''tup tup'' туп туп
+*In [[Marathi language|Marathi]], ''dhad dhad'' धड धड
+*In [[Norwegian language|Norwegian]], ''dunk dunk ''
+*In [[Persian language|Persian]], ''tāp-o-tūp'', ''tap-tap''
+*In [[Polish language|Polish]], ''bum bum'', ''bu-bum''
+*In [[Portuguese language|Portuguese]], ''tun-tum''
+*In [[Russian language|Russian]], ''tuc-tuc'' тук-тук
+*In [[Serbian language|Serbian]], ''tup-tup'' туп-туп
+*In [[Spanish language|Spanish]], ''bum bum bum'', ''tucutún tucutún''
+*In [[Swedish language|Swedish]], ''du-dunk, du-dunk''
+*In [[Filipino language|Tagalog]], ''dub dub, dub dub'', ''tibók, tibók''
+*In [[Tamil language|Tamil]], ''lappu-tappu''
+*In [[Telugu language|Tamil]], ''lab-dab''
+*In [[Thai language|Thai]], {{lang|th|ตุ้บ ตุ้บ}} (''tup tup''), {{lang|th|ตึ้ก ตั้ก}} (''tuek tak'')
+*In [[Turkish language|Turkish]], ''güm güm'', ''küt küt''
+*In [[Vietnamese language|Vietnamese]], ''thình thịch'', ''bình bịch''
+
+===Hushing===
+*In [[Afrikaans language|Afrikaans]], ''sjoes''
+*In [[Arabic language|Arabic]], ''suh, hoss''
+*In [[Bulgarian language|Bulgarian]], "шът", (shut/ sh't)
+*In [[Standard Mandarin|Chinese, Mandarin]], ''xū'' 嘘<ref group="zho">[http://www.zdic.net/zd/zi/ZdicE5Zdic98Zdic98.htm "嘘"] in [http://zdic.net/ Han Dian online dictionary]</ref>
+*In [[Croatian language|Croatian]], ''ššš'', ''pssst''
+*In [[Czech language|Czech]], ''pš'' {{IPA|[pʃ]}}
+*In [[Danish language|Danish]] ''shh'', ''tys''
+*In [[Dutch language|Dutch]] ''shh''
+*In [[English language|English]] ''hush, shh''
+*In [[Estonian language|Estonian]] ''kuss kuss''
+*In [[Finnish language|Finnish]], ''shh'', ''hys''
+*In [[French language|French]] ''chut''
+*In [[German language|German]] ''pst, pscht''
+*In [[Greek language|Greek]]: ''shh'' σσσ, ''shhut'' σσουτ
+*In [[Icelandic language|Icelandic]] ''uss''
+*In [[Indonesian language|Indonesia]] ''ssst''
+*In [[Italian language|Italian]] ''shh''
+*In [[Hebrew language|Hebrew]], ''shh'' שְשש
+*In [[Hungarian language|Hungarian]], ''pszt'' or ''csitt''
+*In [[Japanese language|Japanese]], ''shh'' ({{lang|ja|しーっ}})
+*In [[Korean language|Korean]], ''sh't'' 쉿
+*In [[Latvian language|Latvian]]: ''kuš!'', ''ššš'''
+*In [[Lithuanian language|Lithuanian]]: ''ša!'', ''ššš'''
+*In [[Marathi language|Marathi]], ''kuz buz'' कुजबुज
+*In [[Persian language|Persian]] ''hīs''
+*In [[Polish language|Polish]] ''ćśśś''
+*In [[Portuguese language|Portuguese]] ''chi'', ''chit'', ''si'', ''xiu'', ''psiu''
+*In [[Romanian language|Romanian]] ''sst'', ''șșt'', ''șșș''
+*In [[Russian language|Russian]] ''ts-s'' тс-с, ''sh-sh'' ш-ш, ''tsyts!'' цыц!
+*In [[Serbian language|Serbian]], ''psssst'' пссст, "shhhhh" шшшшш
+*In [[Spanish language|Spanish]] ''chitón'' ''cht''
+*In [[Swedish language|Swedish]] ''schh''
+*In [[Filipino language|Tagalog]], ''tsut''
+*In [[Tamil language|Tamil]], ''oosshhhh''
+*In [[Thai language|Thai]], {{lang|th|จุ๊จุ๊}} (''chu chu''), {{lang|th|ชู่}} (''chuu'')
+*In [[Turkish language|Turkish]] ''şişt, şişş''
+*In [[Uropi]] ''cit, ccc''
+*In [[Vietnamese language|Vietnamese]] ''suỵt'', ''xuýt''
+
+===Kiss===
+*In [[Afrikaans language|Afrikaans]], ''mwa''
+*In [[Albanian language|Albanian]], ''mpuq''
+*In [[Arabic]], ''mwa''
+*In [[Batak language|Batak]], ''ummah''
+*In [[Bosnian language|Bosnian]], ''cmok'' or ''pusa''
+*In [[Bulgarian language|Bulgarian]], ''tzun'' цун or "mlias" мляс
+*In [[Catalan language|Catalan]], ''muà''
+*In [[Standard Mandarin|Chinese, Mandarin]]: ''boh'' 啵 (This word is a modern creation){{Citation needed|date=November 2011}}
+*In [[Croatian language|Croatian]], ''cmok''
+*In [[Danish language|Danish]], ''møs''
+*In [[Dutch language|Dutch]], ''smak''
+*In [[English language|English]]: ''mwah'', ''smooch''
+*In [[Estonian language|Estonian]] ''mopsti''
+*In [[Finnish language|Finnish]], ''muisk''
+*In [[French language|French]], ''mouah'', ''smack''
+*In [[German language|German]]: ''muah'', ''schmatz''
+*In [[Greek language|Greek]]: ''ma'' μα, ''mats'' ματς, ''mouts'' μουτς
+*In [[Hebrew language|Hebrew]], ''mwa'' מוּאָה
+*In [[Hindi language|Hindi]]: ''mmuah''
+*In [[Hungarian language|Hungarian]]: ''cupp''
+*In [[Indonesian language|Indonesian]], ''muahhh'' or ''cupp''
+*In [[Italian language|Italian]], ''smack''
+*In [[Japanese language|Japanese]], {{lang|ja|チュー}} (''chū'')
+*In [[Korean language|Korean]]: ''jjohk'' 쪽
+*In [[Lithuanian language|Lithuanian]], ''pakšt''
+*In [[Macedonian language|Macedonian]], ''tsmoc'' цмок
+*In [[Malayalam language|Malayalam]], ''umma'':
+*In [[Marathi language|Marathi]], ''muka'' मुका, ''chumbana'' चुंबन
+*In [[Navajo language|Navajo]], ''ts'oos'', ''k'oos''
+*In [[Norwegian language|Norwegian]], ''smask''
+*In [[Persian language|Persian]], ''m!'', ''mp!'', ''māč-o-mūč''
+*In [[Polish language|Polish]], ''cmok''
+*In [[Portuguese language|Portuguese]], ''splish splash'', ''smac'', ''chuac''
+*In [[Romanian language|Romanian]], ''smac, ţoc'', ''mua''
+*In [[Russian language|Russian]], ''chmoc'' чмок
+*In [[Serbian language|Serbian]], ''cmok'' цмок
+*In [[Sinhalese language|Sinhalese]], ''umma'' උම්ම
+*In [[Slovak language|Slovak]], ''cmuk''
+*In [[Slovene language|Slovene]], ''cmok''
+*In [[Spanish language|Spanish]], ''mua'' or ''muac'', ''chuik'' (South America)
+*In [[Swedish language|Swedish]], ''smack''
+*In [[Filipino language|Tagalog]], ''tsup'', ''mwah''
+*In [[Tamil language|Tamil]], ''umma''
+*In [[Telugu language|Telugu]], ''umma''
+*In [[Thai language|Thai]], {{lang|th|จุ๊บ}} (''chup''), {{lang|th|จ๊วบ}} (''chuap'')
+*In [[Turkish language|Turkish]], ''muck'' {{IPA|/mudʒ(u)k/}}
+*In [[Ukrainian language|Ukrainian]], ''tsiom'' цьом
+*In [[Vietnamese language|Vietnamese]], ''chụt''
+
+===Laughter===
+*In [[Afrikaans language|Afrikaans]], ''ha ha ha''
+*In [[Arabic]] ''hà hà hà'', ''hee hee''
+*In [[Armenian language|Armenian]] "քա քա քա," "չա չա չա" ka ka ka, cha cha cha
+*In [[Asturian language|Asturian]] ''ḥa ḥa ḥa'', ''ḥe ḥe ḥe''
+*In [[Batak language|Batak]], ''kakak''
+*In [[Bulgarian language|Bulgarian]], "хахаха, хехехе, хихихи" hahaha, hehehe, hihihi
+*In [[Catalan language|Catalan]], ''hahaha'', ''hehehe''
+*In [[Standard Mandarin|Chinese, Mandarin]] ''hā hā'' 哈哈,<ref group="zho">[http://www.zdic.net/cd/ci/9/ZdicE5Zdic93Zdic88316873.htm "哈哈"] in [http://zdic.net/ Han Dian online dictionary]</ref> ''hē hē'' 呵呵,<ref group="zho">[http://www.zdic.net/cd/ci/8/ZdicE5Zdic91ZdicB5317217.htm "呵呵"] in [http://zdic.net/ Han Dian online dictionary]</ref> ''xī xī '' 嘻嘻<ref group="zho">[http://www.zdic.net/cd/ci/15/ZdicE5Zdic98ZdicBB329052.htm "嘻嘻"] in [http://zdic.net/ Han Dian online dictionary]</ref> ''hēi hēi'' 嘿嘿
+*In [[Croatian language|Croatian]], ''ha ha ha'', ''he he he'', hi hi hi''
+*In [[Czech language|Czech]], ''ha ha'', ''cha cha'' {{IPA|[xa xa]}}, ''chi chi'' {{IPA|[xi xi]}}
+*In [[Danish Language|Danish]], ''ha ha'', ''hi hi'', ''hæ hæ'', ''ho ho'', ''ti hi''
+*In [[Dutch language|Dutch]], ''haha'', ''hihi''
+*In [[English language|English]], ''hahaha'', ''heh-heh'', ''hohoho'', ''(tee)heehee''
+*In [[Estonian language|Estonian]], ''haha'', ''hahhah'', ''hehe'', ''hehheh'', ''hihi''
+*In [[Finnish language|Finnish]], ''haha'', ''hahhah'', ''hehe'', ''hehheh'', ''hihi'', ''hihhih'' (girly)
+*In [[French language|French]], ''hahaha'', ''héhéhé'', ''hihihi'', ''hohoho''
+*In [[German language|German]], ''hahaha'', ''hihihihi''
+*In [[Greek language|Greek]]: ''haha'' χαχα, ''hehe'' χεχε
+*In [[Hebrew language|Hebrew]], ''xà xà xà'' חָה־חָה־חָה<ref group="heb">[http://morfix.mako.co.il/default.aspx?q=%D7%97%D7%94%20%D7%97%D7%94%20%D7%97%D7%94&source=milon "חָה חָה חָה"] in [http://morfix.mako.co.il Morfix online dictionary]</ref>
+*In [[Hungarian language|Hungarian]], ''haha'', ''hehe'', ''hihi''
+*In [[Icelandic language|Icelandic]], ''haha'', ''hehe'', (tittering or laughter) ''híhí''
+*In [[Indonesian language|Indonesian]], ''hahaha'', ''hehehe'', ''wakakaka'', 'wkwkwk'
+*In [[Italian language|Italian]], ''ah, ah'', ''eh, eh'', ''ih, ih'', ''uh, uh''
+*In [[Japanese language|Japanese]], ''ahaha'' {{lang|ja|あはは}}, {{lang|ja|フフ}} (''fu fu'')
+*In [[Korean language|Korean]], ''hahaha'' 하하하, ''kekeke'' 케케케
+*In [[Latvian language|Latvian]], ''ha ha''
+*In [[Lithuanian language|Lithuanian]], ''cha cha''
+*In [[Marathi language|Marathi]], ''ha ha'' हा हा, ''kho kho'' खो खो (loud laughter)
+*In [[Nepali language|Nepali]], ''ha'', ''ahaha''
+*In [[Persian language|Persian]], ''hā-hā'', ''he-he'', ''qah-qāh''
+*In [[Polish language|Polish]], ''hahaha'', ''hihi'', ''hehe'', ''hohoho''
+*In [[Portuguese language|Portuguese]], ''hahaha'', ''kakaka''
+*In [[Romanian language|Romanian]], ''ha-ha'', ''hi-hi''
+*In [[Russian language|Russian]], ''haha'' хаха, ''hihi'' хихи, ''hèhè'' хехе
+*In [[Serbian language|Serbian]], ''hahaha'' хахаха, "hihihi" хихихи, ''hehehe'' хехехе
+*In [[Spanish language|Spanish]], ''jajaja'', ''jejeje''
+*In [[Filipino language|Tagalog]], ''hahaha'', ''hehehe'', ''hihihi''
+*In [[Thai language|Thai]], {{lang|th|ฮ่า ๆ ๆ}} (''hahaha'') 
+*In [[Turkish language|Turkish]], ''haha'', ''hehe'', ''hihi'' (girly), ''kikir'' (girly, sarcastic), ''hoho'' (sarcastic)
+*In [[Vietnamese language|Vietnamese]], ''ha ha'', ''hi hi'', ''hô hô''
+
+===Liquid being drunk===
+*In [[Afrikaans language|Afrikaans]], ''gloeg gloeg gloeg''
+* In [[Bulgarian language|Bulgarian]], ''glyok glyok'' гльок гльок
+*In [[Standard Mandarin|Chinese, Mandarin]], ''gū-dōng gū-dōng''咕咚 咕咚
+*In [[Croatian language|Croatian]], ''glp glp'', ''glu glu''
+*In [[Czech language|Czech]], ''glo glo''
+* In [[Dutch language|Dutch]], ''slurp'', ''klok klok klok''
+* In [[English language|English]], ''slurp'', ''glug''
+* In [[French language|French]], ''glouglouglou''
+* In [[German language|German]], ''schlürf'', ''gluck''
+* In [[Gujarati language|Gujarati]], ''gudgud''
+* In [[Hungarian language|Hungarian]], ''glugy glugy''
+* In [[Indonesian language|Indonesian]], ''glek glek'', ''gluk gluk''
+* In [[Italian language|Italian]], ''glu glu''
+* In [[Japanese language|Japanese]], ''goku goku''ゴクゴク
+* In [[Korean language|Korean]], ''ggul gguk ggul gguk''꿀꺽 꿀꺽
+* In [[Lithuanian language|Lithuanian]], "kliuk kliuk"
+* In [[Marathi language|Marathi]], ''gaTa gaTa'' गटा गटा 
+* In [[Persian language|Persian]], ''qolop-qolop''
+* In [[Polish language|Polish]], ''gul gul''
+* In [[Portuguese language|Portuguese]], ''glup, glup''
+* In [[Romanian language|Romanian]], ''gâl-gâl''
+* In [[Russian language|Russian]], ''bulk-bulk'' бульк бульк
+* In [[Spanish language|Spanish]], ''glu glu glu'', ''glup''
+* In [[Swedish language|Swedish]], ''glugg glugg''
+* In [[Thai language|Thai]], {{lang|th|อึ้ก}} (''uek''), {{lang|th|เอื้อก}} (''ueak'')
+
+===Scream===
+*In [[Albanian language|Albanian]], ''au'', ''of'', ''uf''
+*In [[Arabic language|Arabic]], ''-aij'' أي
+*In [[Azerbaijani language|Azerbaijani]], ''uf''
+*In [[Basque language|Basque]], ''ai'', ''aiei'', ''epa''
+*In [[Batak language|Batak]], ''alale''
+*In [[Belarusian language|Belarusian]], ''aj'' ай
+*In [[Bulgarian language|Bulgarian]], ''aj'' ай, ''au'' ау, ''ox'' ох, ''oj'' ой
+*In [[Catalan language|Catalan]], ''ai'', ''au'', ''ui'', ''uix''
+*In [[Mandarin Chinese|Chinese, Mandarin]], ''ā'' 啊, ''ō'' 噢, ''āiyā'' 哎呀, ''āiyō'' 哎哟
+*In [[Croatian language|Croatian]] and [[Serbian language|Serbian]], ''jao'', ''joj'', ''uaijh'', ''au'', ''auč''
+*In [[Czech language|Czech]], ''au'', ''jau''
+*In [[Danish language|Danish]], ''av''
+*In [[Dutch language|Dutch]], ''au'', ''auw''
+*In [[English language|English]], ''ow'', ''ouch'', ''yeow'', ''yow'', ''agh'', ''eek'', ''yikes'', "oof"
+*In [[Estonian language|Estonian]], ''ai'', ''oi''
+*In [[Filipino language|Filipino]], ''aráy'', ''ay''
+*In [[Finnish language|Finnish]], ''au'', ''ai'', ''auts''
+*In [[French language|French]], ''aïe'', ''ouille'', ''ayoye (Qc)'', ''Ouch (Qc)'', ''Aw (Qc)''
+*In [[Galician language|Galician]], ''ai''
+*In [[German language|German]], ''au'', ''aua'', ''ah'', ''autsch''
+*In [[Greek language|Greek]], ''òk'' ωχ
+*In [[Haitian Creole language|Haitian Creole]], ''ay''
+*In [[Hebrew language|Hebrew]], ''àx'' אָח,<ref group="heb">[http://morfix.mako.co.il/default.aspx?q=ouch&source=milon "Ouch"] in [http://morfix.mako.co.il Morfix online dictionary]</ref> ''ài'' אָי, ''oy vey'' אױ װײ
+*In [[Hindi language|Hindi]], ''àhhà'' आहा, ''hhàvh-hhàvh'' वाह-वाह
+*In [[Hungarian language|Hungarian]], ''aú'', ''á'', ''jaj''
+*In [[Icelandic language|Icelandic]], ''ái'', ''ói'', ''æi''
+*In [[Indonesian language|Indonesian]], ''aduh'', ''ai'', ''aih'', ''awww''
+*In [[Irish language|Irish]], ''aigh''
+*In [[Italian language|Italian]], ''ahi'', ''ahia'', ''ohi''
+*In [[Japanese language|Japanese]], ''gyā'' {{lang|ja|ギャー}}
+*In [[Korean language|Korean]], ''ah'' 아, ''aya'' 아야 'kkya' '꺄'
+*In [[Latvian language|Latvian]], ''vai'', ''au''
+*In [[Lithuanian language|Lithuanian]], ''ai'', ''oi''
+*In [[Macedonian language|Macedonian]], ''uf'' уф
+*In [[Malay language|Malay]], ''aduh''
+*In [[Marathi language|Marathi]], ''aa aa'' आ आ
+*In [[Navajo language|Navajo]], ''ayá''
+*In [[Nepali language|Nepali]], ''bzzt'', ''bzzzzzzzt''
+*In [[Norwegian language|Norwegian]] ''au''
+*In [[Pashtu language|Pashtu]], ''ooauy'', ''why''
+*In [[Persian language|Persian]], ''āx'' آخ, ''vāy'' وای
+*In [[Polish language|Polish]], ''auuu'', ''auć'', ''aj''
+*In [[Portuguese language|Portuguese]], ''ai'', ''au'', ''ui''
+*In [[Quebec French]], ''ayoye''
+*In [[Romanian language|Romanian]], ''au'', ''ai'', ''aa'', ''ah''
+*In [[Russian language|Russian]], ''oy'' ой, ''ay'' ай, ''okh'' ох
+*In [[Serbian language|Serbian]], ''auu'', ''joj'', ''jao'', ауу, 
+*In [[Slovak language|Slovak]], ''au''
+*In [[Slovenian language|Slovenian]], ''auch'' auč
+*In [[Spanish language|Spanish]], ''au'', ''ay''
+*In [[Swedish language|Swedish]], ''aj'', ''oj''
+*In [[Filipino language|Tagalog]], ''aráy'', ''arúy''
+*In [[Thai language|Thai]], {{lang|th|อ๊าก}} (''ak''), {{lang|th|;ว๊าก}} (''wak''), {{lang|th|โอ๊ย}} (''oi''), {{lang|th|อ๊าย}} (''ai'')
+*In [[Turkish language|Turkish]], ''ah'', ''ahh'', ''of'', ''öf'', ''üf'', ''ciyak''
+*In [[Ukrainian language|Ukrainian]], ''aj'' ай, ''joj'' йой, ''oj'' ой
+*In [[Urdu language|Urdu]], ''-ààh'' آہ,  ''ooauy''
+*In [[Uropi]], ''aw''
+*In [[Vietnamese language|Vietnamese]], ''a'', ''á'', ''ối'', ''oái''
+*In [[Yiddish language|Yiddish]], ''oi'' וי
+
+===Shriek===
+*In [[Batak language|Batak]], ''ei''
+*In [[Dutch language|Dutch]], ''iek''
+*In [[English language|English]], ''yagh'', ''gah'', ''eek'', ''yikes''
+*In [[German language|German]], ''uwah'', ''waah'', ''ieh''
+*In [[Finnish language|Finnish]], ''iik'', ''kääk''
+*In [[Indonesian language|Indonesia]] ''wao'', ''huwah''
+*In [[Japanese language|Japanese]], ''kyaa'' {{lang|ja|きゃあ}} <ref group="jpn">http://dic.yahoo.co.jp/dsearch?enc=UTF-8&p=%E3%81%8D%E3%82%83&dtype=0&dname=0ss&stype=0&index=104697200000&pagenum=1</ref>
+*In [[Latvian language|Latvian]], ''ai''
+*In [[Polish language|Polish]], ''aaa''
+*In [[Persian language|Persian]], ''āy'' آی 
+*In [[Russian language|Russian]], ''wi-i-i'' уи-и-и (of pig)
+*In [[Swedish language|Swedish]], ''ii''
+*In [[Thai language|Thai]], {{lang|th|อู๊ย}} (''ui''), โอ๊ย (oi), {{lang|th|อ๊าย}} (''ai'')
+*In [[Italian language|Italian]], ''aah'', ''iih''
+
+===Sneeze===
+*In [[Afrikaans language|Afrikaans]], ''atiesjoe''
+*In [[Arabic]], ''atchu''
+*In [[Basque language|Basque]], ''usin'', ''doministiku''
+*In [[Batak language|Batak]], ''atcim''
+*In [[Bengali language|Bengali]], হাঁচি ''h''ā''nchi''
+*In [[Bulgarian language|Bulgarian]], ''apchix'' апчих, kih ких
+*In [[Catalan language|Catalan]], ''atxum!'', ''atxís'', ''atxim''.
+*In [[Standard Cantonese|Chinese, Cantonese]], ''hāt-chī'' 乞嗤
+*In [[Standard Mandarin|Chinese, Mandarin]], ''ā tì'' 阿嚏<ref group="zho">[http://www.zdic.net/cd/ci/15/ZdicE5Zdic98ZdicBB329052.htm "阿嚏"] in [http://zdic.net/ Han Dian online dictionary]</ref>
+*In [[Croatian language|Croatian]], ''apćih'', ''apćiha''
+*In [[Czech language|Czech]], ''hepčí'' {{IPA|[ˈɦɛpt͡ʃiː]}}
+*In [[Danish language|Danish]], ''atju'', ''hatju''
+*In [[Dutch language|Dutch]], ''Hatsjoe!'', ''Hatsjie!'' 
+*In [[English language|English]], ''Atishoo!'', ''Achoo!''
+*In [[Estonian language|Estonian]], ''Atsihh!'', ''Atsih!'', ''Aptsihh!'', ''Aptsih!''
+*In [[Finnish language|Finnish]], ''Atshii!'', ''Atshiu!'', ''Atsiuh'', ''Ätshii!'', ''Ätshiu'', ''Ätsiuh!''
+*In [[French language|French]], ''Atchoum''
+*In [[German language|German]], ''Hatschi!'', ''Hatschu!''
+*In [[Greek language|Greek]], ''aps(i)u!'', αψ(ι)ου!
+*In [[Hebrew language|Hebrew]], ''apchi!'' !אַפְּצִ'י<ref group="heb">[http://morfix.mako.co.il/default.aspx?q=%D7%90%D7%A4%D7%A6%27%D7%99&source=milon "אַפְּצִ'י"] in [http://morfix.mako.co.il Morfix online dictionary]</ref>
+*In [[Hindi language|Hindi]], ''achhee!''
+*In [[Hungarian language|Hungarian]], ''Hapci!''
+*In [[Icelandic language|Icelandic]], ''Atsjú!''
+*In [[Indonesian language|Indonesian]], ''hacciihh!''
+*In [[Italian language|Italian]], ''etciú''
+*In [[Japanese language|Japanese]],  {{lang|ja|ハクション!}} (''hakushon!'')<ref group="jpn">http://dic.yahoo.co.jp/dsearch?p=%E3%81%AF%E3%81%8F%E3%81%97%E3%82%87%E3%82%93&stype=0&dtype=0</ref>
+*In [[Kazakh language|Kazakh]], ''apschoo'', ''әпшху''
+*In [[Korean language|Korean]], ''etchui'' {{lang|ko|에취}}
+*In [[Latvian language|Latvian]], ''apčī''
+*In [[Lithuanian language|Lithuanian]], ''apčiū'', ''apči''
+*In [[Macedonian language|Macedonian]], ''apchixa!'' апчиха!
+*In [[Marathi language|Marathi]], ''chirad'' चिरड
+*In [[Norwegian language|Norwegian]] ''aatsjoo''
+*In [[Persian language|Persian]],''achu''
+*In [[Polish language|Polish]], ''a-psik!''
+*In [[Portuguese language|Portuguese]], ''atchim!'', ''atchô!''
+*In [[Romanian language|Romanian]], ''hapciu!''
+*In [[Russian language|Russian]], ''apchkhi!'' Апчхи
+*In [[Serbian language|Serbian]], ''apćiha'' апћиха
+*In [[Sinhalese language|Sinhalese]], ''hacis'' හචිස්
+*In [[Slovak language|Slovak]], ''hapčí''
+*In [[Slovene language|Slovene]], ''ačih'', ''ačiha''
+*In [[Spanish language|Spanish]], ''¡Achu!'',''¡Achís!'' or ''¡Achú!''
+*In [[Swedish language|Swedish]], ''atjoo!''
+*In [[Filipino language|Tagalog]], ''hatsíng!'' ''bahíng!''
+*In [[Tamil language|Tamil]], ''A-Choo''
+*In [[Thai language|Thai]], {{lang|th|ฮัดเช่ย}} (''hatchoei''), {{lang|th|ฮัดชิ่ว}} (''hatchio'')
+*In [[Turkish language|Turkish]], '' hapşu''
+*In [[Vietnamese language|Vietnamese]], ''hắt xì'', ''ắt xì''
+
+===Snoring===
+*In [[Afrikaans language|Afrikaans]], ''snork''
+*In [[Basque language|Basque]], ''zurrun-zurrun''
+*In [[Batak language|Batak]], ''korrrr''
+*In [[Bulgarian language|Bulgarian]], ''hurrr''  хърр
+*In [[Standard Mandarin|Chinese, Mandarin]], ''hū lu'' 呼噜<ref group="zho">[http://www.zdic.net/cd/ci/15/ZdicE5Zdic98ZdicBB329052.htm "呼噜"] in [http://zdic.net/ Han Dian online dictionary]</ref>
+*In [[Czech language|Czech]], ''chrrr''
+*In [[Danish language|Danish]], ''snork''
+*In [[Dutch language|Dutch]], ''snurk", "zzz''
+*In [[English language|English]], ''zzz''
+*In [[Finnish language|Finnish]], ''krooh pyyh''
+*In [[French language|French]], ''Ron pchi'', ''zzz''
+*In [[German language|German]], ''chrr-pfüüh, Schnarch, zzz''
+*In [[Hebrew language|Hebrew]], ''xrrr'' חְררר
+*In [[Hungarian language|Hungarian]], ''hrr pityipű''
+*In [[Indonesian language|Indonesian]], ''grookkk'' 
+*In [[Italian language|Italian]], ''ronf'', ''zzz''
+*In [[Japanese language|Japanese]], ''gu-gu'' {{lang|ja|ぐうぐう}} <ref group="jpn">http://dic.yahoo.co.jp/dsearch?p=%E3%81%90%E3%81%86%E3%81%90%E3%81%86&stype=0&dtype=0</ref>
+*In [[Korean language|Korean]], ''de-reu-rung'' 드르렁  
+*In [[Marathi language|Marathi]], ''ghor'' घोर, ''ghurr'' घुर्र
+*In [[Persian language|Persian]], ''xor-o-pof'', ''xor-nāse''
+*In [[Polish language|Polish]], ''chrrr''
+*In [[Romanian language|Romanian]], ''sfor''
+*In [[Russian language|Russian]], ''khrrr'' хр-р-р
+*In [[Swedish language|Swedish]], ''snark''
+*In [[Filipino language|Tagalog]], ''kok-sss''
+*In [[Thai language|Thai]], {{lang|th|ครอก ฟี้}} (''khrok fi''), {{lang|th|ครอก ครอก}} (''khrok khrok'')
+*In [[Turkish language|Turkish]], ''hor''
+*In [[Vietnamese language|Vietnamese]], ''khò'', ''khò khò''
+
+===Stuttering===
+*In [[Afrikaans language|Afrikaans]], ''hakkel''
+*In [[Arabic language|Arabic]], ''tahtaha''
+*In [[Armenian language|Armenian]], "թօթօ," to-to
+*In [[Batak language|Batak]], ''a-ak''
+*In [[Bengali language|Bengali]]: থৎমৎ ''thôtomôto''
+*In [[Czech language|Czech]], "bla bla" 
+*In [[English language|English]], ''up up up''
+*In [[Hebrew language|Hebrew]], ''gimgum'' גִּמְגּוּם
+*In [[Indonesian language|Indonesia]] ''a a ak''
+*In [[Marathi language|Marathi]], ''tata papa'' तत पप
+*In [[Polish language|Polish]], ''y-yh''
+*In [[Persian language|Persian]], ''tete-pete''
+*In [[Romanian language|Romanian]], ''bâl-bâl''
+*In [[Russian language|Russian]], ''ik'' ик
+*In [[Sinhalese language|Sinhalese]], ''bäk bäk'' බැක් බැක්
+*In [[Filipino language|Tagalog]], ''sasasasa''
+*In [[Thai language|Thai]], {{lang|th|ตะ ตะ ตะ}} (''ta ta ta'')
+*In [[Turkish language|Turkish]], ''kekelemek''
+*In [[Ukrainian language|Ukrainian]], ''gyk'' гик
+*In [[Vietnamese language|Vietnamese]], ''lắp bắp''
+
+===Thinking/Pause===
+*In [[Bulgarian language|Bulgarian]], ''aaaa'' ъъъъъъ
+*In [[Standard Mandarin|Chinese, Mandarin]], ''èn''嗯
+*In [[Czech language|Czech]], ''é'' [e:]
+*In [[English language|English]], ''er'', ''erm'', ''uh'', ''uhm''
+*In [[French language|French]], ''heu'', ''euh''
+*In [[German language|German]], ''äh'', ''ähm''
+*In [[Hebrew language|Hebrew]], ''אהמ'' (ehm)
+*In [[Hungarian language|Hungarian]], ''hm'', ''hmm''
+*In [[Indonesian language|Indonesia]], ''hmmm''
+*In [[Italian language|Italian]], ''mmm'', ''ehm''
+*In [[Japanese language|Japanese]], アーノ (āno), エート (ēto)
+*In [[Norwegian language|Norwegian]], ''ø'', ''øh''
+*In [[Persian language|Persian]], ''hmm''
+*In [[Polish language|Polish]], ''hmmm''
+*In [[Spanish language|Spanish]] "ehhh"
+*In [[Turkish language|Turkish]], ''ııı'', ''ee'', ''hmm''
+
+===Throat swallowing===
+*In [[Batak language|Batak]], ''guk''
+*In [[Bulgarian language|Bulgarian]], ''gull'' гъл
+*In [[Croatian language|Croatian]], ''gut''
+*In [[Danish language|Danish]], ''slurk'', ''glub''
+*In [[Dutch language|Dutch]], ''slik''
+*In [[English language|English]], ''gulp''; (of liquid) ''glug glug glug''
+*In [[Filipino language|Filipino]], ''lunók''
+*In [[Finnish language|Finnish]], ''klup''
+*In [[French language|French]], ''gloups''
+*In [[German language|German]], ''schluck''
+*In [[Hebrew language|Hebrew]], ''gluk'' גְּלוּק
+*In [[Hungarian language|Hungarian]], ''gluggy''
+*In [[Indonesian language|Indonesian]], ''glek''
+*In [[Italian language|Italian]], ''glu glu''
+*In [[Japanese language|Japanese]], ''goku'' {{lang|ja|ごくっ}} <ref group="jpn">http://dic.yahoo.co.jp/dsearch?p=%E3%81%94%E3%81%8F%E3%81%A3&stype=0&dtype=0</ref>
+*In [[Korean language|Korean]], ''ggul gguk 꿀꺽'' 
+*In [[Marathi language|Marathi]], ''gatak'' गटक
+*In [[Polish language|Polish]], ''gul gul''
+*In [[Russian language|Russian]], ''glyg'' глыг
+*In [[Romanian language|Romanian]], ''gogâlț''
+*In [[Spanish language|Spanish]], ''glup''
+*In [[Swedish language|Swedish]], ''gulp''
+*In [[Thai language|Thai]], {{lang|th|อึก อึก}} (''uek uek'') 
+*In [[Turkish language|Turkish]], ''gulp''
+*In [[Ukrainian language|Ukrainian]], ''golg'' ґольґ
+
+===Tooth brushing===
+*In [[Standard Mandarin|Chinese, Mandarin]], ''shua'' 唰{{Citation needed|date=November 2011}}
+*In [[Danish language|Danish]], shishoshisho
+*In [[English language|English]], ''brushie brushie brushie''
+*In [[Hebrew language|Hebrew]], ''tzix-tzuax'' צִחְצוּחַ
+*In [[Indonesian language|Indonesia]] ''sruk sruk''
+*In [[Japanese language|Japanese]], {{lang|ja|ゴシゴシ}} (''goshi goshi'')
+*In [[Korean language|Korean]], ''chi-ka chi-ka'' 치카치카
+*In [[Polish language|Polish]] ''szuru szuru'', ''szuru buru''
+*In [[Spanish language|Spanish]], ''¡chiqui chiqui!''
+*In [[Filipino language|Tagalog]], ''tsuka tsuka''
+
+===Yawning===
+*In [[Cebuano language|Cebuano]], ''hahay''
+*In [[Croatian language|Croatian]], ''zijev''
+*In [[Czech language|Czech]], ''zív''
+*In [[Danish language|Danish]], ''gab''
+*In [[English language|English]], ''yawn''
+*In [[Filipino language|Filipino]], ''hikab''
+*In [[Finnish language|Finnish]], ''haukotus''
+*In [[French language|French]], ''ouaaah''
+*In [[German language|German]], ''gähn''
+*In [[Indonesian language|Indonesia]] ''hoam''
+*In [[Japanese language|Japanese]], ''fuwaāa'' {{lang|ja|ふわあーあ}}
+*In [[Polish language|Polish]], ''ziew'' 
+*In [[Portuguese language|Portuguese]] ''uah''
+*In [[Swedish language|Swedish]] ''gäsp''
+*In [[Thai language|Thai]], {{lang|th|ฮ่าว}} (''hao'')
+
+==Animal sounds==
+
+===Bee buzzing===
+*In [[Afrikaans language|Afrikaans]], ''zoem''
+*In [[Arabic language|Arabic]], " Taneen, طنين
+*In [[Armenian language|Armenian]], "բզզ," "բզզէ," bezuzz, bezuzze
+*In [[Batak language|Batak]], ''ngung-ngung''
+*In [[Bulgarian language|Bulgarian]], "бзззз", bzzzz
+*In [[Standard Mandarin|Chinese, Mandarin]], ''wēng wēng'' 嗡嗡<ref group="zho">[http://www.zdic.net/cd/ci/13/ZdicE5Zdic97ZdicA1311090.htm "嗡嗡"] in [http://zdic.net/ Han Dian online dictionary]</ref>
+*In [[Catalan language|Catalan]], ''zzz''
+*In [[Croatian language|Croatian]], ''zum zum'', ''bzzz''
+*In [[Czech language|Czech]], ''bzzz''
+*In [[Danish language|Danish]], ''sum''
+*In [[English language|English]], ''buzz'', ''bzzz''
+*In rural English (as mentioned in Joel Chandler Harris' "Uncle Remus" stories), ''zoon''
+*In [[Estonian language|Estonian]] ''summ-summ-summ''
+*In [[Finnish language|Finnish]], ''surr'', ''surrur'
+*In [[French language|French]] Bzzzz
+*In [[German language|German]], ''summ''
+*In [[Hebrew language|Hebrew]], ''bzzz'' בְּזזז, ''zum zum'' זוּם־זוּם
+*In [[Hungarian language|Hungarian]], ''zümm''
+*In [[Indonesian language|Indonesia]] ''nguing''
+*In [[Japanese language|Japanese]], ''būn'' {{lang|ja|ブーン}}
+*In [[Latvian language|Latvian]], ''bzz''
+*In [[Persian language|Persian]], ''vez-vez''
+*In [[Polish language|Polish]], ''bzzz'', ''zzzz''
+*In [[Portuguese language|Portuguese]], ''zum zum'', ''bzzzz''
+*In [[Romanian language|Romanian]], ''bâzzz''
+*In [[Russian language|Russian]], zhzhzh жжж
+*In [[Serbian language|Serbian]], ''zum zum'', ''bzz''
+*In [[Spanish language|Spanish]], ''zum''
+*In [[Filipino language|Tagalog]], ''zzz''
+*In [[Turkish language|Turkish]], ''vızz''
+*In [[Thai language|Thai]], {{lang|th|หึ่ง ๆ}} (''hueng hueng'')
+
+===Bird singing===
+*In [[Afrikaans language|Afrikaans]], ''twiet twiet''
+*In [[Albanian language|Albanian]] ''ciu-ciu''
+*In [[Arabic language|Arabic]] ''siqsiq'' سِقسِق,''gharid'' (to chirp) غِرد, ''ziw ziw ziw'' زِيد زِيد زِيد
+*In [[Armenian language|Armenian]] "ճիւ ճիւ," jiv jiv
+*In [[Basque language|Basque (Euskara)]], ''txio txio''
+*In [[Bosnian language|Bosnian]], ''čip čip''
+*In [[Bulgarian language|Bulgarian]], ''chik-chirik'' чик-чирик
+*In [[Catalan language|Catalan]], ''piu piu''
+*In [[Standard Mandarin|Chinese, Mandarin]] ''jī jī zhā zhā'' 叽叽喳喳<ref group="zho">[http://www.zdic.net/cd/ci/5/ZdicE5Zdic8FZdicBD346280.htm "叽叽喳喳"] in [http://zdic.net/ Han Dian online dictionary]</ref>
+*In [[Croatian language|Croatian]], ''čip čip''
+*In [[Czech language|Czech]], ''píp píp'', ''cvrliki''
+*In [[Danish language|Danish]], ''pip pip''
+*In [[Dutch language|Dutch]], ''twiet twiet'', ''tjierp'', ''tjielp'', ''tsjilp'' 
+*In [[English language|English]], ''chirp chirp'', ''tweet tweet'', ''cheep cheep'', ''peep peep''
+*In [[Estonian language|Estonian]], ''siuts siuts'', ''siit siit'', ''tsirr tsirr'', ''sirts sirts'', ''siu siu''
+*In [[Finnish language|Finnish]], ''tsirp tsirp'', ''tviit'', ''piip piip'', ''ti-ti-tyy'' ([[Great Tit]])
+*In [[French language|French]], ''cui cui'', ''piou piou''
+*In [[German language|German]], ''piep piep'' /peep, peep/, ''tschiep''
+*In [[Greek language|Greek]], ''tsiu tsiu'' τσίου τσίου
+*In [[Hebrew language|Hebrew]], ''tsif tsif'' צִיף־צִיף,<ref name="safa-ivrit" group="heb"/> ''tswits tswits'' צְוִיץ־צְוִיץ<ref name="safa-ivrit" group="heb"/>
+*In [[Hindi language|Hindi]], ''cheh cheh''
+*In [[Hungarian language|Hungarian]], ''csip-csirip''
+*In [[Icelandic language|Icelandic]], "bíbí"
+*In [[Indonesian language|Indonesian]], ''cit-cit'', ''cicitcuit''
+*In [[Italian language|Italian]], ''cip cip'', ''pio pio'' (chick)
+*In [[Japanese language|Japanese]], it varies: (chick) {{lang|ja|ピヨ ピヨ}} (''piyo piyo''), {{lang|ja|ひいひい}} (''hī, hī''), ''chun chun'' {{lang|ja|チュンチュン}}
+*In [[Korean language|Korean]], ''jjek jjek'' 짹짹
+*In [[Latvian language|Latvian]], ''čiu čiu'', ''čiv čiv''
+*In [[Lithuanian language|Lithuanian]], ''čik čirik'', ''čyru vyru''
+*In [[Macedonian language|Macedonian]], ''churulic churulic'' чурулик чурулик
+*In [[Malayalam language|Malayalam]], "coo coo"
+*In [[Persian language|Persian]], ''čah-čah'', ''čah-čahe''
+*In [[Polish language|Polish]], ''ćwir ćwir'', ''fiu-fiu'' (and others)
+*In [[Portuguese language|Portuguese]], ''piu piu''
+*In [[Romanian language|Romanian]], ''cip cirip'', ''piu piu''
+*In [[Russian language|Russian]], ''chiric-chiric'' чирик-чирик, ''chic-chiric'' чик-чирик, ''chiv-chiv'' чив-чив
+*In [[Serbian language|Serbian]], ''choo choo''
+*In [[Sinhalese language|Sinhalese]], ''kumu kumu'' කුමු-කුමු
+*In [[Slovak language|Slovak]], ''píp píp'', ''čvirik, čvirik''
+*In [[Slovene language|Slovene]], ''čiv čiv''
+*In [[Spanish language|Spanish]], ''pío, pío''
+*In [[Swedish language|Swedish]], ''kvitt, kvitt''
+*In [[Filipino language|Tagalog]], ''twit twit twit''
+*In [[Tamil language|Tamil]], ''koo, koo''
+*In [[Thai language|Thai]], {{lang|th|จิ๊บ ๆ}} (''chip chip'') 
+*In [[Turkish language|Turkish]], ''cik cik, cibili cibili şak şak'' {{IPA|/dʒik dʒik/}}
+*In [[Ukrainian language|Ukrainian]], ''t'okh-t'okh'' тьох-тьох, ''fit'-fit''' фіть-фіть
+*In [[Vietnamese language|Vietnamese]], ''chíp chíp''
+
+===Cat meowing===
+*In [[Albanian language|Albanian]], ''mjau-mjau''
+*In [[Arabic]], ''muwà-'' مُواَء "naw naw"
+*In [[Batak language|Batak]], ''ngeong''
+*In [[Bengali language|Bengali]]: ''miu miu'' মিউ মিউ
+*In [[Bulgarian language|Bulgarian]], ''mjau'' мяу
+*In [[Catalan language|Catalan]], ''mèu'' {{IPA-ca|mɛu|}}
+*In [[Standard Cantonese|Chinese, Cantonese]], ''mēu-mēu'' 喵喵
+*In [[Standard Mandarin|Chinese, Mandarin]], ''miāo'' 喵<ref group="zho">[http://www.zdic.net/zd/zi/ZdicE5Zdic96ZdicB5.htm "喵"] in [http://zdic.net/ Han Dian online dictionary]</ref>
+*In [[Croatian language|Croatian]], ''mjau''
+*In [[Czech language|Czech]], ''mňau'' {{IPA|[mɲau]}}
+*In [[Danish language|Danish]], ''mjau'', ''mjav'', ''miau'', ''miav''
+*In [[Dutch language|Dutch]], ''miauw'', ''mauw''
+*In [[Egyptian language|Egyptian]], ''mjw'' (''miu'')
+*In [[English language|English]], ''miaow'' (UK), ''meow'' (US), ''mew'', ''miau''
+*In [[Estonian language|Estonian]], ''mäu'', ''mjäu'', ''näu'', ''njau'', ''kurnjau''
+*In [[Finnish language|Finnish]], ''miau'', ''mau'', ''nau'', ''kurnau''
+*In [[French language|French]], ''miaou'' {{IPA-fr|mja.u|}}
+*In [[German language|German]], ''miau''
+*In [[Greek language|Greek]], ''niau'' νιάου
+*In [[Hebrew language|Hebrew]], ''miàw'' מְיָאוּ<ref name="safa-ivrit" group="heb"/>
+*In [[Hindi language|Hindi]] ''myaau'', ''myaaoo''
+*In [[Hungarian language|Hungarian]] ''miaú'', ''nyau''
+*In [[Icelandic language|Icelandic]], ''mjá''
+*In [[Indonesian language|Indonesian]], ''meong''
+*In [[Italian language|Italian]], ''miao'', ''mao''
+*In [[Japanese language|Japanese]], {{lang|ja|ニャー}} (''nyā'')
+*In [[Korean language|Korean]], ''yaong'' {{lang|ko|야옹}}
+*In [[Latgalian language|Latgalian]], ''ņau ņau''
+*In [[Latvian language|Latvian]], ''mjau'', ''ņau''
+*In [[Lithuanian language|Lithuanian]], ''miau''
+*In [[Macedonian language|Macedonian]], ''mjau'' мјау
+*In [[Malayalam language|Malayalam]], ''myaoo myaoo''
+*In [[Norwegian language|Norwegian]] ''mjau''
+*In [[Persian language|Persian]], ''mioo mioo'' ''میومیو''
+*In [[Polish language|Polish]], ''miau''
+*In [[Portuguese language|Portuguese]], ''miau''
+*In [[Romanian language|Romanian]], ''miau''
+*In [[Russian language|Russian]], ''mjau'' мяу
+*In [[Sinhalese language|Sinhalese]], ''ñāvu'' ඤාවු
+*In [[Slovene language|Slovene]], ''mijav''
+*In [[Spanish language|Spanish]], ''miau'' {{IPA-es|ˈmjau|}}
+*In [[Swedish language|Swedish]], ''mjau'', ''mjao''
+*In [[Filipino language|Tagalog]], ''meyaw'', ''miyaw'', ''ngiyaw''
+*In [[Tamil language|Tamil]], ''miaow(m)'' மியா
+*In [[Telugu language|Telugu]], ''miao(m)''
+*In [[Thai language|Thai]], {{lang|th|เมี้ยว}} (''miao''), {{lang|th|แง้ว}} (''ngaew'')
+*In [[Turkish language|Turkish]], ''miyav''
+*In [[Ukrainian language|Ukrainian]], ''niav'' няв
+*In [[Urdu language|Urdu]], ''meow''[http://www.eleceng.adelaide.edu.au/Personal/dabbott/animal.html]
+*In [[Uropi]], ''miaw''
+*In [[Vietnamese language|Vietnamese]], ''meo''
+*In [[Volapük]], ''miov''
+
+===Chicken clucking===
+*In [[Afrikaans language|Afrikaans]], ''kloek kloek ''
+*In [[Arabic language|Arabic]], ''qur qur'' قرقر, ''baq baq baiq'' بق بق بيق
+*In [[Batak language|Batak]], ''kotek-kotek''
+*In [[Bulgarian language|Bulgarian]], ко-ко-ко
+*In [[Chinese language|Chinese]], ''gē gē'' 咯咯
+*In [[Croatian language|Croatian]], ''kokoda'', ''kokodak''
+*In [[Czech language|Czech]], ''kokodák''
+*In [[Danish language|Danish]], ''kuk kuk'', ''gok gok''
+*In [[Dutch language|Dutch]], ''tok tok tok''
+*In [[English language|English]], ''cluck cluck'', ''bok bok bok'', ''bok bok b'gawk''
+*In [[Finnish language|Finnish]], ''kot kot''
+*In [[French language|French]], ''cot cot cot'', ''cot cot codet''
+*In [[German language|German]], ''gack gack gack''
+*In [[Greek language|Greek]], ''coco co'', ''clo clo'' (sitting)
+*In [[Hebrew language|Hebrew]], ''qur qur qur'' קוּר־קוּר־קוּר,<ref name="safa-ivrit" group="heb"/> ''bàq bàq bàq'' בָּק־בָּק־בָּק
+*In [[Hungarian language|Hungarian]], ''kot-kot-kot-kodács''
+*In [[Indonesian language|Indonesian]], ''petok-petok''
+*In [[Italian language|Italian]], ''coccodè''
+*In [[Japanese language|Japanese]], ''kokko'' {{lang|ja|コッコッ}}
+*In [[Korean language|Korean]], ''kko kko daek'', ''꼬꼬댁''
+*In [[Latgalian language|Latgalian]], ''kā kā''
+*In [[Lithuanian language|Lithuanian]], "kud kudak", "ko ko ko"
+*In [[Persian language|Persian]], ''qod-qod'', ''qod-qod-qodās''
+*In [[Polish Language|Polish]], ''ko ko''
+*In [[Portuguese language|Portuguese]], ''có có có''
+*In [[Romanian language|Romanian]], ''cotcodac''
+*In [[Russian language|Russian]], ''ko-ko-ko'' ко-ко-ко,''kud-kuda'' куд-куда
+*In [[Serbian language|Serbian]], "kokoda" кокода
+*In [[Spanish language|Spanish]], "kikiriki"
+*In [[Swedish language|Swedish]], ''kluck kluck''
+*In [[Filipino language|Tagalog]], ''po-kok''
+*In [[Thai language|Thai]], {{lang|th|กุ๊ก ๆ}} (''kuk kuk'') 
+*In [[Turkish language|Turkish]], ''gıt-gıt gıdaak''
+*In [[Vietnamese language|Vietnamese]], ''(cục ta) cục tác''
+
+===Cow mooing===
+*In [[Afrikaans language|Afrikaans]], ''moe''
+*In [[Arabic]], ''moo'', ''ngoah''
+*In [[Bulgarian language|Bulgarian]], ''muu'' муу
+*In [[Standard Mandarin|Chinese, Mandarin]], ''mōu'' 哞<ref group="zho">[http://www.zdic.net/zd/zi/ZdicE5Zdic93Zdic9E.htm "哞"] in [http://zdic.net/ Han Dian online dictionary]</ref>
+*In [[Croatian language|Croatian]], ''muu''
+*In [[Czech language|Czech]], ''bůů''
+*In [[Danish language|Danish]], ''muh''
+*In [[Dutch language|Dutch]], ''boe''
+*In [[English language|English]], ''moo''
+*In [[French language|French]], ''meuh'', ''mou''
+*In [[Finnish language|Finnish]], ''ammuu'', ''muu''
+*In [[Estonian language|Estonian]], ''ammuu'', ''muu'', ''möö''
+*In [[German language|German]], ''muh''
+*In [[Greek language|Greek]], ''mu'' μoυ
+*In [[Hebrew language|Hebrew]], ''muuu'' מוווּ<ref name="safa-ivrit" group="heb"/>
+*In [[Hindi language|Hindi]], ''moo''
+*In [[Hungarian language|Hungarian]], ''mú''
+*In [[Indonesian language|Indonesian]], ''mooh''
+*In [[Italian language|Italian]], ''mu''
+*In [[Japanese language|Japanese]], {{lang|ja|モーモー}} (''mō mō'')
+*In [[Kazakh language|Kazakh]], ''moo'', ''мөө''
+*In [[Korean language|Korean]] ''eum-mae'' 음매
+*In [[Latgalian language|Latgalian]], ''mū''
+*In [[Latvian language|Latvian]], ''mū''
+*In [[Lithuanian language|Lithuanian]], ''mū''
+*In [[Persian language|Persian]], ''māγ''
+*In [[Polish language|Polish]], ''muuuu''
+*In [[Portuguese language|Portuguese]], ''mu mu''
+*In [[Romanian language|Romanian]], ''mu''
+*In [[Russian language|Russian]], ''mu'' му
+*In [[Slovene language|Slovene]], ''mu''
+*In [[Spanish language|Spanish]], ''mu''
+*In [[Swedish language|Swedish]], ''mu''
+*In [[Filipino language|Tagalog]], ''ungaa''
+*In [[Telugu language|Telugu]], {{lang|te|అంబా}} (''amba'') 
+*In [[Thai language|Thai]], {{lang|th|มอ}} (''mo'') 
+*In [[Turkish language|Turkish]], ''mö''
+*In [[Uropi]], ''mu'', ''muh''
+*In [[Vietnamese language|Vietnamese]], ''ụm bò''
+
+===Crow calling===
+*In [[Arabic]], ''qà qà''
+*In [[Bengali language|Bengali]]: কা কা ''ka ka''
+*In [[Bulgarian language|Bulgarian]], ''ga ga'' га га
+*In [[Standard Mandarin|Chinese, Mandarin]], ''yā yā'' 哑哑<ref group="zho">[http://www.zdic.net/cd/ci/9/ZdicE5Zdic93Zdic91108749.htm "哑哑"] in [http://zdic.net/ Han Dian online dictionary]</ref>
+*In [[Croatian language|Croatian]], ''kra kra''
+*In [[Czech language|Czech]], ''krá krá''
+*In [[Danish language|Danish]], ''kra kra''
+*In [[Dutch language|Dutch]], ''kra kra''
+*In [[English language|English]], ''caw caw''
+*In [[Estonian language|Estonian]] ''kraaks kraaks''
+*In [[Finnish language|Finnish]], ''kraa kraa''
+*In [[French language|French]], ''crôa crôa''
+*In [[German language|German]], ''krah krah''
+*In [[Greek language|Greek]], ''cra cra'' κρα κρα
+*In [[Hebrew language|Hebrew]], ''qràqh qràqh'' קְרָע־קְרָע<ref name="safa-ivrit" group="heb"/>
+*In [[Hindi language|Hindi]], ''kaa kaa''
+*In [[Hungarian language|Hungarian]] ''kár kár''
+*In [[Indonesian language|Indonesian]] ''kaa kaa'', ''kak kak''
+*In [[Italian language|Italian]], ''cra cra''
+*In [[Japanese language|Japanese]], ''kaa kaa'' {{lang|ja|カアカア}}, ''gaa gaa'' {{lang|ja|ガアガア}}
+*In [[Kannada language|Kannada]], ''kha-kha''
+*In [[Korean language|Korean]], ''kkaak kkaak'' 까악까악
+*In [[Latgalian language|Latgalian]], ''krā''
+*In [[Latvian language|Latvian]], ''krā''
+*In [[Lithuanian language|Lithuanian]], ''kar kar''
+*In [[Macedonian language|Macedonian]], ''gra gra'' гра гра
+*In [[Malayalam language|Malayalam]], ''kra kra''
+*In [[Norwegian language|Norwegian]] ''kra kra'
+*In [[Persian language|Persian]], ''qār-qār''
+*In [[Polish language|Polish]], ''kra kra''
+*In [[Portuguese language|Portuguese]], ''cra cra''
+*In [[Romanian language|Romanian]], ''cra cra''
+*In [[Russian language|Russian]], ''kar kar'' кар-кар
+*In [[Sinhalese language|Sinhalese]], ''kāk kāk'' කාක්-කාක්
+*In [[Slovene language|Slovene]], ''kra kra''
+*In [[Spanish language|Spanish]], ''cuaa cuaaa'', ''uacc uac''
+*In [[Swedish language|Swedish]], ''kra kra'', ''krax krax''
+*In [[Filipino language|Tagalog]], ''wák, wák''
+*In [[Tamil language|Tamil]], ''kaa kaa''
+*In [[Telugu language|Telugu]], ''kaau kaau''
+*In [[Thai language|Thai]], {{lang|th|กา กา}} (''ka ka''; ''ka'' also means a crow)
+*In [[Turkish language|Turkish]], ''gaak gaak''
+*In [[Vietnamese language|Vietnamese]], ''quạ quạ'' (''quạ'' also means a crow)
+
+===Dog barking===
+*In [[Afrikaans language|Afrikaans]], ''woef ''
+*In [[Albanian language|Albanian]], ''ham ham''
+*In [[Arabic]], ''haw haw'', ''hab hab''
+*In [[Armenian language|Armenian]], "հաւ հաւ," hav hav 
+*In [[Batak language|Batak]], ''kung-kung''
+*In [[Bengali language|Bengali]]: ''gheu gheu'' ঘেউ ঘেউ, ''bheu bheu'' ভেউ ভেউ, ''bhou bhou'' ভউ ভউ
+*In [[Bulgarian language|Bulgarian]], ''bow bow'' бау бау, ''djaff djaff'' джаф джаф
+*In [[Catalan language|Catalan]], ''bup bup''
+*In [[Standard Cantonese|Chinese, Cantonese]], ''wōu-wōu'' 㕵㕵
+*In [[Standard Mandarin|Chinese, Mandarin]], ''wāng wāng'' 汪汪<ref group="zho">[http://www.zdic.net/cd/ci/7/ZdicE6ZdicB1ZdicAA59106.htm "汪汪"] in [http://zdic.net/ Han Dian online dictionary]</ref>
+*In [[Croatian language|Croatian]], ''vau vau''
+*In [[Czech language|Czech]], ''haf haf''
+*In [[Danish language|Danish]], ''vuf vuf'', ''vov vov'', ''bjæf bjæf''
+*In [[Dutch language|Dutch]], ''waf waf'', ''woef woef''
+*In [[English language|English]], ''woof'', ''arf'', ''bow wow'', ''ruff''
+*In [[Estonian language|Estonian]], ''auh auh''
+*In [[Finnish language|Finnish]] ''hau hau'', ''vuh vuh''
+*In [[French language|French]], ''ouah ouah'', ''ouaf ouaf'', ''wouf wouf''
+*In [[German language|German]], ''wau wau'', ''waff waff'', ''wuff wuff''
+*In [[Greek language|Greek]], ''ghav ghav'' γαβ γαβ, ''woof''
+*In [[Hebrew language|Hebrew]], ''hav hav'' הַב־הַב,<ref name="safa-ivrit" group="heb"/> ''haw haw'' הַאוּ־הַאוּ<ref name="safa-ivrit" group="heb"/>
+*In [[Hindi language|Hindi]], ''bho bho'' भो भो
+*In [[Hungarian language|Hungarian]] ''vau vau''
+*In [[Icelandic language|Icelandic]], ''voff voff''
+*In [[Indonesian language|Indonesian]], ''guk guk''
+*In [[Italian language|Italian]], ''bau bau''
+*In [[Japanese language|Japanese]], {{lang|ja|ワンワン}} (''wan wan'')
+*In [[Kannada language|Kannada]], ''bow bow''
+*In [[Korean language|Korean]], ''meong meong'' {{lang|ko|멍멍}}
+*In [[Latgalian language|Latgalian]], ''vau vau''
+*In [[Latvian language|Latvian]], ''vau''
+*In [[Lithuanian language|Lithuanian]], ''au au''
+*In [[Macedonian language|Macedonian]], ''av av'' ав ав, ''dzhav dzhav'' џав џав
+*In [[Malayalam language|Malayalam]], ''bau bau''
+*In [[Marathi language|Marathi]], ''bhuu bhuu'' भू भू
+*In [[Norwegian language|Norwegian]] ''voff voff'', ''vov vov''
+*In [[Persian language|Persian]], ''vāq vāq'' واق واق, ''hāf-hāf'' هاف هاف
+*In [[Polish language|Polish]], ''hau hau''
+*In [[Portuguese language|Portuguese]], ''au au'', ''ão ão'', ''béu béu''
+*In [[Romanian language|Romanian]], ''ham ham''
+*In [[Russian language|Russian]], ''gav gav'' ({{lang|ru|гав-гав}}), ''tyaf tyaf'' {{lang|ru|тяф-тяф}}
+*In [[Sinhalese language|Sinhalese]], ''buh buh'' බුඃ බුඃ
+*In [[Slovene language|Slovene]], ''hov hov''
+*In [[Spanish language|Spanish]], ''guau guau''
+*In [[Serbian language|Serbian]], "av av", ав ав
+*In [[Swedish language|Swedish]], ''vov vov'', ''voff voff''
+*In [[Filipino language|Tagalog]], ''aw aw''
+*In [[Tamil language|Tamil]], ''vovw-vovw'' லொள் லொள், ''loll-loll'', ''vazh vazh''
+*In [[Telugu language|Telugu]], ''bau bau''
+*In [[Thai language|Thai]], {{lang|th|โฮ่ง ๆ}} (''hong hong''), {{lang|th|บ๊อก ๆ}} (''bok bok'')  
+*In [[Turkish language|Turkish]], ''hav hav''
+*In [[Uropi]], ''waw waw''
+*In [[Vietnamese language|Vietnamese]], ''gâu gâu'', ''sủa sủa''
+
+===Dog or wolf howling===
+*In [[Arabic language|Arabic]], ''Auuuuuu...''
+*In [[Batak language|Batak]], "auuuuuung..."
+*In [[Bulgarian language|Bulgarian]], "ауууууу", (auuuuu)
+*In [[Standard Mandarin|Chinese, Mandarin]], ''háo'' 嚎<ref group="zho">[http://www.zdic.net/zd/zi/ZdicE5Zdic9AZdic8E.htm "嚎"] in [http://zdic.net/ Han Dian online dictionary]</ref>
+*In [[English language|English]], ''awoooooo...''
+*In [[French language|French]], ''aoooouuuu...''
+*In [[Hebrew language|Hebrew]], ''awoooooo...'' אַאווווווּ...&rlm; <!-- Do not remove the <&rlm;> markup! It fixes the Hebrew ellipsis direction. -->*
+*In [[Indonesian language|Indonesian]] ''auuu''
+*In [[Italian language|Italian]], ''auuuuuu...''
+*In [[Japanese language|Japanese]], ''waōn'' {{lang|ja|ワオーン}}
+*In [[Lithuanian language|Lithuanian]], "aūūūūūū"
+*In [[Polish language|Polish]], ''a-uuuuu...''
+*In [[Portuguese language|Portuguese]], ''auuuuuu...''
+*In [[Romanian language|Romanian]], ''auuuuuu...''
+*In [[Russian language|Russian]], ''wu-u-u'' у-у-у…
+*In [[Spanish language|Spanish]], ''auuuuuu''
+*In [[Thai language|Thai]], {{lang|th|โบร๋ว์}} (''brow'')
+
+===Donkey braying===
+*In [[Afrikaans language|Afrikaans]], ''hie hô''
+*In [[Bulgarian language|Bulgarian]], и-аа, и-аа (i-aa, i-aa)
+*In [[Catalan language|Catalan]], ''i-aaa''
+*In [[Croatian language|Croatian]], ''i-a''
+*In [[Czech language|Czech]], ''íí-áá''
+*In [[Dutch language|Dutch]], ''ie-aa''
+*In [[English language|English]], ''hee-haw''
+*In [[Finnish language|Finnish]], ''ihaa''
+*In [[French language|French]], ''hi han''
+*In [[German language|German]], ''i-ah''
+*In [[Hebrew language|Hebrew]], ''-i-à'' אִי־אָה<ref name="safa-ivrit" group="heb"/>
+*In [[Hindi language|Hindi]], ''Dhai.nchu Dhai.nchu'' ढैंचू ढैंचू 
+*In [[Hungarian language|Hungarian]], ''i-á''
+*In [[Italian language|Italian]], ''ih oh''
+*In [[Persian language|Persian]], ''ar-ar'' عر عر
+*In [[Polish language|Polish]], ''iii-haa''
+*In [[Portuguese language|Portuguese]],''ii-á, ii-ó''
+*In [[Romanian language|Romanian]], ''i-ha''
+*In [[Russian language|Russian]], ''ie-a '' ии-а
+*In [[Spanish language|Spanish]], ''i-o''
+*In [[Turkish language|Turkish]], ''aa-ii''
+
+===Duck calling===
+*In [[Afrikaans language|Afrikaans]], ''kwaak''
+*In [[Albanian language|Albanian]], ''mak-mak''
+*In [[Arabic language|Arabic]], ''wak-wak''
+*In [[Batak language|Batak]], ''kuak-kuak''
+*In [[Brazilian Portuguese]], ''quá quá''
+*In [[Bulgarian language|Bulgarian]], ''paa, paa'' па-па
+*In [[Catalan language|Catalan]], ''cuac cuac'', ''mec mec'', ''qüec qüec''.
+*In [[Standard Cantonese|Chinese, Cantonese]], ''gua, gua'' 呱呱
+*In [[Standard Mandarin|Chinese, Mandarin]], ''gā gā'' 嘎嘎,<ref group="zho">[http://www.zdic.net/cd/ci/14/ZdicE5Zdic98Zdic8E315846.htm "嘎嘎"] in [http://zdic.net/ Han Dian online dictionary]</ref> ''guā guā'' 呱呱<ref name="zdic.net" group="zho">[http://www.zdic.net/cd/ci/8/ZdicE5Zdic91ZdicB181306.htm "呱呱"] in [http://zdic.net/ Han Dian online dictionary]</ref>
+*In [[Croatian language|Croatian]], ''kva kva''
+*In [[Czech language|Czech]], ''káč káč''
+*In [[Danish language|Danish]], ''rap rap''
+*In [[Dutch language|Dutch]], ''kwak kwak'', ''kwaak, kwaak''
+*In [[English language|English]], ''quack''
+*In [[Estonian language|Estonian]], ''prääk prääk'', ''prääks prääks''
+*In [[Finnish language|Finnish]], ''kvaak kvaak''
+*In [[French language|French]], ''coin coin''
+*In [[German language|German]], ''quak quak''
+*In [[Greek language|Greek]], ''cuac cuac'' (κουάκ κουάκ)
+*In [[Hebrew language|Hebrew]], ''gaʕ gaʕ'' גַּע־גַּע<ref name="safa-ivrit" group="heb"/>
+*In [[Hungarian language|Hungarian]], ''háp háp''
+*In [[Icelandic language|Icelandic]], ''bra bra''
+*In [[Indonesian language|Indonesian]], ''kwek kwek''
+*In [[Italian language|Italian]], ''qua qua''
+*In [[Japanese language|Japanese]], {{lang|ja|ガーガー}} (''gā gā'')
+*In [[Korean language|Korean]], ''quek quek'' 꽥꽥
+*In [[Latvian language|Latvian]], ''pēk pēk''
+*In [[Lithuanian language|Lithuanian]], ''kva kva''
+*In [[Macedonian language|Macedonian]], ''cva cva'' ква ква
+*In [[Nepali language|Nepali]], ''braaaq caaq''
+*In [[Norwegian language|Norwegian]] ''kvakk kvakk''
+*In [[Persian language|Persian]], (Northern) ''mak-mak'' 
+*In [[Polish language|Polish]], ''kwa kwa kwa''
+*In [[Portuguese language|Portuguese]], ''quá quá'', ''quak quak''
+*In [[Romanian language|Romanian]], ''mac mac''
+*In [[Russian language|Russian]], ''krja krja'' кря-кря
+*In [[Spanish language|Spanish]], ''cua cua''
+*In [[Swedish language|Swedish]], ''kvack kvack''
+*In [[Filipino language|Tagalog]], ''kwak kwak''
+*In [[Tamil language|Tamil]], ''kua kua''
+*In [[Thai language|Thai]], {{lang|th|ก้าบ ๆ}} (''kap kap'') 
+*In [[Turkish language|Turkish]], ''vak vak''
+*In [[Uropi]], ''kwa kwa''
+*In [[Vietnamese language|Vietnamese]], ''cạp cạp''
+
+===Eagle soaring===
+*In [[Batak language|Batak]], ''kuliii-kulikuk''
+
+===Elephant trumpeting===
+*In [[English language|English]], ''nrrr''
+*In [[German language|German]], ''töröö''
+*In [[Indonesian language|Indonesian]] ''ngoah''
+*In [[Japanese language|Japanese]], {{lang|ja|パオー}} (''pao-'')
+*In [[Thai language|Thai]], {{lang|th|แป๊น}} (''paen''), {{lang|th|แปร๊น}} (''praen'')
+*In [[Swedish language|Swedish]], ''tuut''
+
+===Frog croaking===
+This may differ according to the species of frog common in each language's speech area.
+*In [[Afrikaans language|Afrikaans]], ''kwaak''
+*In [[Bengali language|Bengali]]: মক মক ''môk môk'', কট কট ''kôṭ kôṭ'', ''ghangor ghang''
+*In [[Bulgarian language|Bulgarian]], ''cva cva'' ква ква
+*In [[Catalan language|Catalan]], ''ruac ruac'', ''roac roac'', ''rac rac''.
+*In [[Standard Mandarin|Chinese, Mandarin]]: ''guā guā'' 呱呱<ref group="zho" name="zdic.net"/>
+*In [[Croatian language|Croatian]], ''kre kre''
+*In [[Czech language|Czech]], ''kvá kvá''
+*In [[Danish language|Danish]]: ''kvæk kvæk'', ''græbæk''
+*In [[Dutch language|Dutch]]: ''kwaak kwaak''
+*In [[English language|English]], (USA) ''ribbit'', ''gribbit''; (Britain) ''croak''
+*In [[Estonian language|Estonian]] ''krooks krooks''
+*In [[Finnish language|Finnish]] ''kurr kurr'', ''kroak''
+*In [[French language|French]], ''croac croac''
+*In [[Galician language|Galician]], ''cro cro''
+*In [[German language|German]], ''quaak''
+*In [[Greek language|Greek]], ''brekekekex koax koax'' (ancient, likely ''[[Rana ridibunda]]''), ''cuacs cuacs'' κουάξ κουάξ
+*In [[Hebrew language|Hebrew]], ''qwà qwà'' קְוָה־קְוָה<ref name="safa-ivrit" group="heb"/>
+*In [[Hindi language|Hindi]], ''tarr tarr''
+*In [[Hungarian language|Hungarian]], ''brekeke'', ''brekk'', ''kutykurutty'', ''kvákk''
+*In [[Indonesian language|Indonesia]] ''krok krok''
+*In [[Italian language|Italian]], ''cra cra''
+*In [[Japanese language|Japanese]], {{lang|ja|ケロケロ}} (''kero kero'')
+*In [[Korean language|Korean]], ''gaegool gaegool'' {{lang|ko|개굴개굴}}
+*In [[Latgalian language|Latgalian]], ''kvak kvak'', ''kvā kvā'', ''kvarr kvarr''
+*In [[Latvian language|Latvian]], ''kvā kvā''
+*In [[Lithuanian language|Lithuanian]], ''kva kva''
+*In [[Macedonian language|Macedonian]], ''crè crè'' кре кре
+*In [[Norwegian language|Norwegian]], ''kvekk kvekk'', ''kvakk kvakk''
+*In [[Persian language|Persian]], ''qūr-qūr''
+*In [[Polish language|Polish]], ''kum kum, rech rech''
+*In [[Portuguese language|Portuguese]], ''croac croac''
+*In [[Romanian language|Romanian]], ''oac oac''
+*In [[Russian language|Russian]], ''kva kva'' {{lang|ru|ква ква}}
+*In [[Sinhalese language|Sinhalese]], ''baka baka'' බක බක
+*In [[Slovene language|Slovene]], ''kvak kvak'', ''rega kvak''
+*In [[Spanish language|Spanish]], ''croac croac''
+*In [[Swedish language|Swedish]], ''kvack kvack'', ''ko ack ack ack'' ''kväk''
+*In [[Filipino language|Tagalog]], ''kokak kokak''
+*In [[Telugu language|Telugu]], ''beka beka''
+*In [[Thai language|Thai]], {{lang|th|อ๊บ ๆ}} (''op op'') 
+*In [[Turkish language|Turkish]], ''vrak vrak''
+*In [[Ukrainian language|Ukrainian]], ''kva kva'' {{lang|uk|ква-ква}},<ref group="uk">[http://sum.in.ua/s/kva "КВА"] in [http://sum.in.ua/ «Словник української мови»]</ref> ''kum kum'' {{lang|uk|кум-кум}},<ref name="kum" group="uk">[http://sum.in.ua/s/kum "КУМ"] in [http://sum.in.ua/ «Словник української мови»]</ref> ''kvok kvok'' {{lang|uk|квок-квок}}<ref name="kum" group="uk"/>
+*In [[Vietnamese language|Vietnamese]], ''ồm ộp'', ''ộp ộp''
+
+===Goose calling===
+*In [[Arabic language|Arabic]], ''quack quack'', ''kwak kwak'' كواك كواك
+*In [[Bulgarian language|Bulgarian]], ''kvack kvack'' (квак-квак) 
+*In [[Catalan language|Catalan]], ''cuac cuac''
+*In [[Croatian language|Croatian]], ''ga ga''
+*In [[Czech language|Czech]], ''ga ga''
+*In [[Dutch language|Dutch]], ''gak gak''
+*In [[English language|English]], ''honk honk''
+*In [[Estonian language|Estonian]] ''kaak kaak''
+*In [[French language|French]], ''ca car''
+*In [[German language|German]], ''gack gack''
+*In [[Hebrew language|Hebrew]], ''gaqh gaqh'' גַּע־גַּע<ref name="safa-ivrit" group="heb"/>
+*In [[Hungarian language|Hungarian]], ''gá gá''
+*In [[Indonesian language|Indonesia]] ''kwak kwak''
+*In [[Italian language|Italian]], ''qua qua''
+*In [[Japanese language|Japanese]], {{lang|ja|ガーガー}} (''gā gā'')
+*In [[Korea language|Korean]], kkwak-kkwak 꽤액-꽤액
+*In [[Latgalian language|Latgalian]], ''gā gā''
+*In [[Polish language|Polish]], ''gę gę''
+*In [[Portuguese language|Portuguese]], ''quem quem'' /qüém qüém/, ''qua qua''
+*In [[Romanian language|Romanian]], ''ga ga''
+*In [[Russian language|Russian]], ''ga-ga-ga'' га-га-га
+*In [[Slovene language|Slovene]], ''ga ga''
+*In [[Spanish language|Spanish]], ''cua cua''
+*In [[Filipino language|Tagalog]], ''ong ong''
+*In [[Tamil language|Tamil]], baack baack
+*In [[Turkish language|Turkish]], ''vak vak''
+*In [[Vietnamese language|Vietnamese]], ''quạc quạc''
+
+===Horse whinnying===
+*In [[Afrikaans language|Afrikaans]], ''runnik''
+*In [[Catalan language|Catalan]], ''hiiiihiii''
+*In [[Croatian language|Croatian]], ''njihaa''
+*In [[Czech language|Czech]], ''íí-hahá''
+*In [[Danish language|Danish]], ''vrinsk''
+*In [[Dutch language|Dutch]], ''niiii'', ''hiiii''
+*In [[English language|English]], ''neigh''
+*In [[Estonian language|Estonian]], ''ii-ha-haa''
+*In [[Finnish language|Finnish]], ''ii-ha-haa''
+*In [[French language|French]], ''hiii hiii''
+*In [[German language|German]], ''wiehiehie''
+*In [[Hebrew language|Hebrew]], ''hii hii'' הִי־הִי<ref name="safa-ivrit" group="heb"/>
+*In [[Hindi language|Hindi]], ''hin-hina''
+*In [[Hungarian language|Hungarian]], ''nyihaha''
+*In [[Indonesian language|Indonesia]] ''yihaa''
+*In [[Italian language|Italian]], ''hiii hiii''
+*In [[Japanese language|Japanese]], {{lang|ja|ヒーン}} (''hīn'')
+*In [[Korean language|Korean]], ''hiing'' 히잉
+*In [[Latin language|Latin]], ''hinni''
+*In [[Latvian language|Latvian]], ''ī-ā''
+*In [[Lithuanian language|Lithuanian]], ''yhaha'', ''ygaga''
+*In [[Norwegian language|Norwegian]], ''vrisnk''
+*In [[Persian language|Persian]], ''šīhe''
+*In [[Polish language|Polish]], ''iiii-haaa''
+*In [[Portuguese language|Portuguese]], ''hi hi''
+*In [[Romanian language|Romanian]], ''ni-ha-ha''
+*In [[Russian language|Russian]], ''i-go-go'' и-го-го
+*In [[Spanish language|Spanish]], ''ji ji''
+*In [[Swedish language|Swedish]]', ''gnägg''
+*In [[Filipino language|Tagalog]], ''hihihi haha''
+*In [[Thai language|Thai]], {{lang|th|ฮี้ ๆ}} (''hii hii'') 
+*In [[Turkish language|Turkish]], ''ih-hi-i-i''
+*In [[Vietnamese language|Vietnamese]], ''hí hí hí''
+
+===Horse trotting===
+*In [[Arabic language|Arabic]], ''deregin-deregin''
+*In [[Bulgarian language|Bulgarian]], ''tagadak tagadak'' (''тъгъдък тъгъдък'')
+*In [[Croatian language|Croatian]], ''klop klop''
+*In [[Danish language|Danish]], ''gadagung gadagung''
+*In [[Dutch language|Dutch]], ''kataklop kataklop''
+*In [[English language|English]], ''clip clop''
+*In [[Finnish language|Finnish]], ''kopoti kopoti'', ''koppoti koppoti''
+*In [[French language|French]], ''Pa-ta-clop''
+*In [[Hungarian language|Hungarian]], ''klop-klop-klop''
+*In [[Italian language|Italian]], ''clop-clop-clop'', ''cloppete clappete''
+*In [[Latvian language|Latvian]], ''klap klap''
+*In [[Persian language|Persian]], ''pūtikā pūtikā''
+*In [[Polish language|Polish]], ''patataj patataj''
+*In [[Portuguese language|Portuguese]], ''pocotó pocotó''
+*In [[Romanian language|Romanian]], ''trop trop''
+*In [[Russian language|Russian]], ''tsok-tsok цок-цок''
+*In [[Spanish language|Spanish]], ''tucutun tucutun''
+*In [[Thai language|Thai]], {{lang|th|กุบกับ กุบกับ}} (''kupkap kupkap'') 
+*In [[Turkish language|Turkish]], ''dıgı-dıg dıgı-dıg''
+
+===Lion roaring===
+*In [[Catalan language|Catalan]], ''arrrr'', ''roarrr''
+*In [[Standard Mandarin|Chinese, Mandarin]], ''hǒu'' 吼<ref group="zho">[http://www.zdic.net/zd/zi/ZdicE5Zdic90ZdicBC.htm "吼"] in [http://zdic.net/ Han Dian online dictionary]</ref>
+*In [[English language|English]], ''roar''
+*In [[Filipino language|Filipino]], ''awoo''
+*In [[French language|French]], ''roarrr''
+*In [[Finnish language|Finnish]], ''mur''
+*In [[Italian language|Italian]], ''roar''
+*In [[Bahasa Indonesia|Indonesia]], ''aum''
+*In [[Japanese language|Japanese]], ''gaō'' {{lang|ja|ガオー}}
+*In [[Korean language|Korean]], ''uh-heung'' 어흥
+*In [[Polish language|Polish]], ''wrrr'', ''grrr''
+*In [[Portuguese language|Partuguese]], ''urawr''
+*In [[Romanian language|Romanian]], ''grrrrr''
+*In [[Thai language|Thai]], ''hoak'' {{lang|th|โิฮก}}
+*In [[Turkish language|Turkish]], ''ravr''
+*In [[Vietnamese language|Vietnamese]], ''goám''
+
+===Monkey chatting===
+*In [[English language|English]], ''oo-ooh a-aah''
+*In [[Czech language|Czech]], ''u-u e-e''
+*In [[French language|French]], ''Ouah ah ah hein''
+*In [[Hebrew language|Hebrew]], ''-u-u a-àh'' אוּ־אוּ אַ־אָה
+*In [[Indonesian language|Indonesia]] ''kak kak kak kak kak''
+*In [[Italian language|Italian]], ''u-u-ah-ah-ah''
+*In [[Japanese language|Japanese]], ''u-ki-u-ki'' {{lang|ja|ウキウキ}}
+*In [[Portuguese language|Portuguese]], ''u-u-u-u'', ''u-u-ááá''
+*In [[Russian language|Russian]], ''chi-chi-chi'' чи-чи-чи
+*In [[Thai language|Thai]], {{lang|th|เจี๊ยก ๆ}} (''chiak chiak'')
+*In [[Korean language|Korean]].''u-ki-ki-ki'' 우끼끼끼
+
+===Owl hooting===
+*In [[Afrikaans language|Afrikaans]], ''hoe-hoe''
+*In [[Bulgarian language|Bulgarian]], "бууу", (buuu)
+*In [[Croatian language|Croatian]], ''hu hu''
+*In [[Czech language|Czech]], ''hůůů''
+*In [[Dutch language|Dutch]], ''oehoe''
+*In [[English language|English]], ''twit twoo'' (AUS), ''hoo hoo'', toowit toowoo
+*In [[Estonian language|Estonian]] ''uhuu''
+*In [[French language|French]] ''Ouh Ouh ''
+*In [[Finnish language|Finnish]], ''huhuu''
+*In [[German language|German]], ''hu hu''
+*In [[Hebrew language|Hebrew]], ''hu-huuu'' הוּ־הוווּ
+*In [[Italian language|Italian]], ''huu huu''
+*In [[Indonesian language|Indonesia]] ''Kuk-kuk''
+*In [[Japanese language|Japanese]], ''hō hō'' {{lang|ja|ホウホウ}}
+*In [[Polish language|Polish]], ''hu-huuu''
+*In [[Portuguese language|Portuguese]], ''u-huu''
+*In [[Romanian language|Romanian]], ''hu-huuu''
+*In [[Russian language|Russian]], ''ugu'' угу, ''ukhu'' уху
+*In [[Swedish language|Swedish]], ''ho-hoo''
+*In [[Turkish language|Turkish]], ''gu guk guuk'' (goo gook goook)
+
+===Pig grunting===
+*In [[Bulgarian language|Bulgarian]], ''gruh gruh'' грух грух
+*In [[Catalan language|Catalan]], ''oinc oinc''
+*In [[Czech language|Czech]], ''chro chro'', ''kvík kvík''
+*In [[Danish language|Danish]], ''øf øf'', 'grønt'
+*In [[Dutch language|Dutch]], ''knor knor''
+*In [[English language|English]], ''oink oink''
+*In [[Estonian language|Estonian]] ''röh röh röh''
+*In [[Finnish language|Finnish]], ''röh röh'', ''nöf nöf''
+*In [[French language|French]], ''groin groin''
+*In [[Georgian language|Georgian]], ''ghrutu ghrutu'' ღრუტუ ღრუტუ
+*In [[German language|German]], ''grunz grunz'', ''oink oink''
+*In [[Hebrew language|Hebrew]], ''-oinq -oinq'' אוֹינְק־אוֹינְק,<ref name="safa-ivrit" group="heb"/> ''xrr xrr'' חְרר־חְרר<ref name="safa-ivrit" group="heb"/>
+*In [[Hungarian language|Hungarian]], ''röf röf'', ''uí uí''
+*In [[Indonesian language|Indonesian]], ''grok grok''
+*In [[Italian language|Italian]], ''oink oink''
+*In [[Japanese language|Japanese]], {{lang|ja|プヒプヒ}} (''puhi puhi''),  {{lang|ja|ブーブー}} (''bū bū'')
+*In [[Korean language|Korean]], ''ggul ggul'' 꿀꿀
+*In [[Latgalian language|Latgalian]], ''ruk ruk'', ''kvī kvī''
+*In [[Lithuanian language|Lithuanian]], ''kvy kvy'', ''kvykt kvykt'', ''kriu kriu''
+*In [[Polish Language|Polish]], ''kwi kwi'', "chrum chrum"
+*In [[Portuguese Language|Portuguese]], ''ronc ronc, oinc oinc''
+*In [[Romanian language|Romanian]], ''groh groh''
+*In [[Russian language|Russian]], ''xrju xrju'' хрю-хрю
+*In [[Spanish language|Spanish]], ''oinc oinc''
+*In [[Swedish language|Swedish]], ''nöff nöff''
+*In [[Filipino language|Tagalog]], ''ngok ngok''
+*In [[Thai language|Thai]], {{lang|th|อู๊ด ๆ}} (''uut uut''), {{lang|th|ครอก ๆ}} (''khrok khrok'')
+*In [[Uropi]], ''grun grun'' 
+*In [[Vietnamese language|Vietnamese]], ''ụt ụt'', ''ụt ịt'', ''ỉn ỉn'', ''ủn ỉn''
+*In [[Welsh language|Welsh]], ''soch soch''
+
+===Rooster crowing===
+*In [[Afrikaans language|Afrikaans]], ''koekeloekoe''
+*In [[Albanian language|Albanian]], ''kikiriku''
+*In [[Arabic]], ''kuku-kookoo'', ''kuku-reekoo'', ''esku kookoo''
+*In [[Armenian language|Armenian]], ''tsoo-ghoo-roo-ghoo'', coo-coo-ree-coo
+*In [[Bengali language|Bengali]], ''Kuk-ku-ruk-kooo''
+*In [[Bulgarian language|Bulgarian]], ''cucurigu'' кукуригу
+*In [[Catalan language|Catalan]], ''quic quiriquic''
+*In [[Standard Mandarin|Chinese, Mandarin]], ''ō ō ō'' 噢噢噢 / ''wō wō wō'' 喔喔喔
+*In [[Croatian language|Croatian]], ''kukuriku''
+*In [[Czech language|Czech]], ''kykirikí''
+*In [[Danish language|Danish]], ''kykkeliky''
+*In [[Dutch language|Dutch]], ''kukeleku''
+*In [[English language|English]], ''[[cock a doodle doo]]''
+*In [[Estonian language|Estonian]] ''kikerikii'', ''kukeleegu''
+*In [[Basque language|Euskara]], ''kukurruku''
+*In [[Finnish language|Finnish]], ''kukkokiekuu'', ''kukko'' (cock), ''kiekuu'' (crowing)
+*In [[French language|French]], ''cocorico''
+*In [[Georgian language|Georgian]], ''qiqliqo'' ყიყლიყო
+*In [[German language|German]], ''kikeriki''
+*In [[Greek language|Greek]], ''ciciricu'' κικιρίκου
+*In [[Hebrew language|Hebrew]], ''quuquuriqu'' קוּקוּרִיקוּ<ref name="safa-ivrit" group="heb"/>
+*In [[Hindi language|Hindi]], ''ku-kudu-koo''
+*In [[Hungarian language|Hungarian]] ''kukurikú''
+*In [[Icelandic language|Icelandic]], "gaggalagó"
+*In [[Indonesian language|Indonesian]], ''kukuruyuk''
+*In [[Irish language|Irish]], ''cuc-adiú-dil-ú''
+*In [[Italian language|Italian]], ''chicchirichi''
+*In [[Japanese language|Japanese]], {{lang|ja|コケコッコー}} (''kokekokkō'')
+*In [[Korean language|Korean]], ''gugugugu'' 구구구구, "ggo-ggee-oh" 꼬끼오
+*In [[Latgalian language|Latgalian]], ''kikerigū'', ''kikerigī'', ''ko ko ko kō''
+*In [[Latin language|Latin]], ''cocococo''
+*In [[Latvian language|Latvian]], ''kikerigū''
+*In [[Lithuanian language|Lithuanian]], ''kakarykū'', ''kakariekū''
+*In [[Macedonian language|Macedonian]], ''cucuricu'' кукурику
+*In [[Nepali language|Nepali]], ''kukhuri kaa''
+*In [[Norwegian language|Norwegian]] ''kykkeliky''
+*In [[Persian language|Persian]], ''qūqūli qū-qū''
+*In [[Polish language|Polish]], ''kukuryku''
+*In [[Portuguese language|Portuguese]], ''cocorocó'', ''cocoricó''
+*In [[Romanian language|Romanian]], ''cucurigu''
+*In [[Russian language|Russian]], ''koo-ka-re-koo'' кукареку
+*In [[Sinhalese language|Sinhalese]], ''kuku kūk kuu'' කුක්කු කූක් කූ
+*In [[Slovene language|Slovene]], ''kikiriki''
+*In [[Spanish language|Spanish]], ''quiquiriquí'', ''quiquiriquiquí'', ''cocorocó''
+*In [[Sundanese language|Sundanese]], ''kongkorongok''
+*In [[Swedish language|Swedish]], ''kuckeliku''
+*In [[Filipino language|Tagalog]], ''tik-tilá-ok'', ''ko-ko-ro-kok''
+*In [[Tamil Language|Tamil]], ''kokkara-ko-ko''
+*In [[Telugu language|Telugu]], ''kokkaro-ko''
+*In [[Thai language|Thai]], {{lang|th|เอ้กอี๊เอ้กเอ้ก}} (''ek-i-ek-ek'') 
+*In [[Turkish language|Turkish]], ''ü-ürü-üüü'' {{IPA|/yʔyryʔyː/}}
+*In [[Ukrainian language|Ukrainian]], ''koo-ku-ri-koo'' кукуріку
+*In [[Vietnamese language|Vietnamese]], ''ò ó o (oooooo)''
+
+===Sheep bleating===
+*In [[Afrikaans language|Afrikaans]], ''mê''
+*In [[Arabic language|Arabic]], ''mbaa'' امباع, "maa'"
+*In [[Armenian language|Armenian]], "մայ" mai
+*In [[Bulgarian language|Bulgarian]], "беее", (beee)
+*In [[Catalan language|Catalan]], ''bèè'', ''mèè''
+*In [[Standard Mandarin|Chinese, Mandarin]], ''miē'' 咩<ref group="zho">[http://www.zdic.net/zd/zi/ZdicE5Zdic92ZdicA9.htm "咩"] in [http://zdic.net/ Han Dian online dictionary]</ref>
+*In [[Croatian language|Croatian]], ''bee''
+*In [[Czech language|Czech]], ''béé''
+*In [[Danish language|Danish]], ''mæh''
+*In [[Dutch language|Dutch]], ''bèh'', ''mèh''
+*In [[English language|English]], ''baa''
+*In [[Estonian language|Estonian]] ''mää mää''
+*In [[Finnish language|Finnish]], ''mää'', ''bää''
+*In [[French language|French]], ''bêêh''
+*In [[German language|Georgian]], ''ვეეე'' (''veee'')
+*In [[German language|German]], ''mäh''
+*In [[Hebrew language|Hebrew]], ''meh'' מֶה<ref name="safa-ivrit" group="heb"/>
+*In [[Hungarian language|Hungarian]], ''bee''
+*In [[Icelandic language|Icelandic]], ''mee''
+*In [[Indonesian language|Indonesian]], ''mbee'', ''mbek''
+*In [[Italian language|Italian]], ''bee''
+*In [[Japanese language|Japanese]], {{lang|ja|メーメー}} (''mē mē'')
+*In [[Korean language]], ''Eum-Meh'' 음매
+*In [[Latin language|Latin]], ''bee''
+*In [[Latvian language|Latvian]], ''bē''
+*In [[Lithuanian language|Lithuanian]], ''be''
+*In [[Norwegian language|Norwegian]], ''bæ''
+*In [[Persian language|Persian]], ''ba:-ba:''
+*In [[Polish language|Polish]], ''beee''
+*In [[Portuguese language|Portuguese]], ''meh''
+*In [[Romanian language|Romanian]], ''meee'', ''beee''
+*In [[Russian language|Russian]], ''beh'' бее-е
+*In [[Spanish language|Spanish]], ''be''
+*In [[Swedish language|Swedish]], ''bä'' 
+*In [[Telugu language|Telugu]], ''mae''
+*In [[Thai language|Thai]], {{lang|th|แบะ แบะ}} (''bae bae'') 
+*In [[Turkish language|Turkish]], ''mee''
+*In [[Uropi]], ''bee'', ''beh''
+*In [[Vietnamese language|Vietnamese]], ''be be'' (the same as a goat's)
+
+===Snake hissing===
+*In [[Afrikaans language|Afrikaans]], ''sis''
+*In [[Bulgarian language|Bulgarian]], "ссс", (sss)
+*In [[Chinese language|Chinese]], ''sī sī'' 嘶嘶
+*In [[Croatian language|Croatian]], ''hsss''
+*In [[Czech language|Czech]], ''sss''
+*In [[English language|English]], ''hiss'', ''sss''
+*In [[French language|French]], ''siff''
+*In [[German language|German]], ''zisch''
+*In [[Hebrew language|Hebrew]], ''sss'' סְסס
+* in [[Italian language|Italian]], ''pis pis''
+*In [[Japanese language|Japanese]], ''shā'' {{lang|ja|シャー}}
+*In [[Persian language|Persian]], ''fūke'', ''fūff''
+*In [[Polish language|Polish]], ''sssss''
+*In [[Romanian language|Romanian]], ''sss''
+*In [[Russian language|Russian]], ''shhh'' шшш
+*In [[Spanish language|Spanish]], ''sss''
+*In [[Telugu language|Telugu]], ''buss''
+*In [[Filipino language|Tagalog]], ''sss''
+*In [[Turkish language|Turkish]], ''tısss''
+*In [[Thai language|Thai]], {{lang|th|ฟ่อ}} (''fo'')
+
+==Collisions, bursts, and strikes==
+
+===Balloon or bubble bursting===
+*In [[Albanian language|Albanian]], ''çpuf, puf''
+*In [[Arabic language|Arabic]], ''pakh, poof''
+*In [[Batak language|batak]]. "tak"
+*In [[Zambian language|Bemba]], ''pobo'' 
+*In [[Bulgarian language|Bulgarian]], ''puc'' пук
+*In [[Croatian language|Croatian]], ''puk''
+*In [[Czech language|Czech]], ''puf''
+*In [[Danish Language|Danish]], ''bang'', ''knald''
+*In [[Dutch Language|Dutch]], ''pang'', ''pof'', ''paf''
+*In [[English Language|English]], ''pop'', ''bang''
+*In [[Estonian Language|Estonian]] ''pops''
+*In [[French language|French]], ''bang'', ''hop''
+*In [[Finnish language|Finnish]], ''poks''
+*In [[German language|German]], ''plop''
+*In [[Greek language|Greek]], bam ''μπαμ'', bum ''μπουμ''
+*In [[Hindi language|Hindi]], ''thaa''
+*In [[Hungarian language|Hungarian]], ''pukk'' (quieter); ''durr'', ''bumm'', ''bámm'' (louder)
+*In [[Indonesian language|Indonesian]], ''dor''
+*In [[Italian language|Italian]], ''bum''
+*In [[Japanese language|Japanese]], ''pan'' {{lang|ja|パンッ}}
+*In [[Korean language|Korean]], ''bbang'' 빵, ''bbung'' 뻥, ''pang'' 팡, ''pung'' 펑
+*In [[Latvian language|Latvian]], ''bliukš''
+*In [[Lithuanian language|Lithuanian]], ''pokšt''
+*In [[Macedonian language|Macedonian]], ''pau'' пау
+*In [[Navajo language|Navajo]], ''dǫǫn'' (nasalized ''o'')
+*In [[Persian language|Persian]], ''poloq''
+*In [[Polish language|Polish]], ''bum'', ''pyk''
+*In [[Portuguese language|Portuguese]], ''pá'', ''bum''
+*In [[Romanian language|Romanian]], ''poc''
+*In [[Russian language|Russian]], ''bakh'' бах
+*In [[Serbian language|Serbian]], ''puk''
+*In [[Slovene language|Slovene]], ''pok''
+*In [[Spanish language|Spanish]], ''pop''
+*In [[Swedish language|Swedish]], ''poff''
+*In [[Filipino language|Tagalog]], ''putók'', ''pak''
+*In [[Thai language|Thai]], {{lang|th|โป๊ะ}} (''po''), {{lang|th|ปั้ง}} (''pang'')  
+*In [[Turkish language|Turkish]], ''bom''
+*In [[Vietnamese language|Vietnamese]], bốp, bụp
+
+===Cannon firing; gunshot; machine gun fire===
+*In [[Albanian language|Albanian]], ''pam''; ''tak''
+*In [[Arabic]], ''bom''; ''bov'', ''tokh'' طخ
+*In [[Bulgarian language|Bulgarian]], "бум"(bum), "кх"(kh), тататата (tatatata)
+*In [[Catalan language|Catalan]], ''buuum'', ''pumba''; ''pam'', ''pum''; ''ratatatatà''
+*In [[Standard Mandarin|Chinese, Mandarin]], ''pēng'' 砰; ''ping'', ''pa'' 乒, 啪; ''da da da...'' 嗒嗒嗒 {{Citation needed|date=November 2011}}
+*In [[Croatian language|Croatian]], ''bum'', ''pam'', ''puf''
+*In [[Czech language|Czech]], ''bum'', ''prásk'', ''ratatata''
+*In [[Danish language|Danish]], ''bang'', ''bum''
+*In [[Dutch language|Dutch]], ''boem''; ''pang'', ''pauw''; ''ratatata''
+*In [[English language|English]], ''bam'', ''boom'', ''blam'', ''kaboom''; ''bang'', ''pow''; ''rat-at-at-at-at-at'', ''gat-gat-gat-gat'', ''dakka-dakka''
+*In [[Estonian language|Estonian]], ''põmm'', ''kõmm''; ''pauh'', ''karpauh''
+*In [[Finnish language|Finnish]], ''pum''; ''pam''; ''ra-ta-ta-ta-ta-ta'', ''rä-tä-tä-tä-tä-tä''
+*In [[French language|French]], ''boum''; ''pan''
+*In [[German language|German]], ''bumm'', ''rumms'', ''kawumm''; ''peng'', ''puff'', ''päng''; ''rat-tat-tat-tat''
+*In [[Greek language|Greek]], ''cabum'', ''bum'' μπουμ, ''bam'' μπαμ; ''bam'', ''pan'', ''piu-piu'' (mainly by kids); ''trrrrrr''
+*In [[Hebrew language|Hebrew]], ''bum'' בּוּם
+*In [[Hindi language|Hindi]], ''thaa''
+*In [[Hungarian language|Hungarian]] ''bumm'', ''dörr''; ''ratata'', ''trrrrr''
+*In [[Icelandic language|Icelandic]], ''búmm''; ''bamm''
+*In [[Indonesian language|Indonesian]], ''dor'',
+*In [[Italian language|Italian]], ''bum''; ''bang''; ''pum''
+*In [[Japanese language|Japanese]], {{lang|ja|バーンバーン}} (''bān bān''), ''dōn'' {{lang|ja|ドーン}}, ''bakyūn'' {{lang|ja|バキューン}}
+*In [[Kannada language|Kannada]], ''dum'', ''dhaam''
+*In [[Kazakh language|Kazakh]], ''bydyrsch быдырщ''
+*In [[Korean language|Korean]], ''bbang'' 빵
+*In [[Latvian language|Latvian]], ''bum''
+*In [[Lithuanian language|Lithuanian]], ''bumpt'', ''bum'', ''pokšt''
+*In [[Persian language|Persian]], ''bang'' 
+*In [[Macedonian language|Macedonian]], ''bum'' бум; ''pau'' пау; ''ra ta ta ta'' ра та та та
+*In [[Polish language|Polish]], ''bum-bum''; ''bang-bang'', ''pif-paf'' and others; ''tra ta ta ta ta''
+*In [[Portuguese language|Portuguese]], ''bam'', ''boom'', ''cabum''; ''pá'',''pum''; ''ratátátá''
+*In [[Romanian language|Romanian]], ''bum''; ''poc''
+*In [[Russian language|Russian]], ''ba-bakh'' ба-бах; ''pif-paf'' пиф-паф; ''tra-ta-ta'' тра-та-та
+*In [[Sinhalese language|Sinhalese]], ''ḍisum'' ඩිසුම්; ''ḍung'' ඩුං; ''ḍaka-ḍaka-ḍaka'' ඩක-ඩක-ඩක
+*In [[Spanish language|Spanish]], ''pum''; ''bang''; ''praca''
+*In [[Swedish language|Swedish]], ''bom''; ''pang'', ''bang''
+*In [[Filipino language|Tagalog]], ''boom''; ''boogsh''
+*In [[Tamil language|Tamil]], ''dishum''
+*In [[Telugu language|Telugu]], ''dishyoom''
+*In [[Thai language|Thai]], {{lang|th|ตูม}} (''tuum'', cannon firing); {{lang|th|ปัง}} (''pang'', gunshot)
+*In [[Turkish language|Turkish]], ''bom''; ''bam'', ''dıkşınyaa'' (by kids)
+*In [[Uropi]], ''bam'' (cannon), ''pang'' (gun)
+*In [[Vietnamese language|Vietnamese]], ''đoàng'' (louder); ''pằng'' (quieter); ''bùm'' (usually for cannons)
+
+===Crash===
+*In [[Afrikaans language|Afrikaans]], ''doef, kadoef''
+*In [[Arabic language|Arabic]], ''bom'', ''tàkh'', ''tràkh''
+*In [[Bengali language|Bengali]]: ''ṭhash'' ঠাস, ''ṭhush'' ঠুস, ''dhum'' ধুম, ''dham'' ধাম
+*In [[Bulgarian language|Bulgarian]], ''bum'' бум, ''dum'' дум, ''trjas'' тряс "pras" прас
+*In [[Catalan language|Catalan]], ''bumba'', ''catacrac'', ''patam'', ''paf''
+*In [[Standard Mandarin|Chinese, Mandarin]], ''hong'' 轰{{Citation needed|date=November 2011}}
+*In [[Croatian language|Croatian]], ''bum'', ''tres''
+*In [[Czech language|Czech]], ''řach'', ''bum'', ''prásk''
+*In [[Danish language|Danish]], ''bum'', ''bump'', ''bang'', ''krasj''
+*In [[Dutch language|Dutch]], ''boem'', ''knal'', ''plof''
+*In [[English language|English]], ''boom'', ''bam'', ''wham'', ''slam'', ''bang'', ''crash'', ''clash'',  ''pow''
+*In [[Estonian language|Estonian]], ''prõmm'', ''pauh'', ''piraki'', ''karpauh''
+*In [[Filipino language|Tagalog]], ''ka-boom''
+*In [[Finnish language|Finnish]], ''pam'', ''pum'', ''ryskis'', ''kolin'', ''räiskis''
+*In [[French language|French]], ''bing'', ''bang'', ''boum'', ''bam'', ''vlan''
+*In [[German language|German]], ''rumms'', ''bumms'', ''bauz'', ''krach''
+*In [[Gilbertese language|Gilbertese]], ''beeku''
+*In [[Greek language|Greek]], ''bam'' μπαμ, ''gcup''
+*In [[Haitian Creole language|Haitian Creole]], ''bip''
+*In [[Hebrew language|Hebrew]], ''bum'' בּוּם, ''trax'' טְרַאח<ref group="heb">[http://info.babylon.com/onlinebox.cgi?cid=CD1&rt=ol&tid=AffToolbar&term=bang&tl=Hebrew&uil=English "Bang"] in [http://www.babylon.com/ Babylon dictionary]</ref>
+*In [[Hindi language|Hindi]], ''dhishumm'' धिशुम्म, ''dhishum'' धिशुम
+*In [[Hungarian language|Hungarian]], ''dzzs'', ''bumm'', ''bamm'', ''puff'', ''paff'', ''csatt'', ''nyekk''
+*In [[Indonesian language|Indonesian]], ''buk'', ''brekk'', ''j'derr''
+*In [[Italian language|Italian]], ''bum''
+*In [[Japanese language|Japanese]], {{lang|ja|ガーン}} (''gān'')
+*In [[Korean language|Korean]], ''koong'' 쿵
+*In [[Latin]], ''tuxtax''
+*In [[Latvian language|Latvian]], ''bum''
+*In [[Lithuanian language|Lithuanian]], ''bumpt'', ''bum''
+*In [[Macedonian language|Macedonian]], ''bum'' бум, ''pam'' пам, ''pum'' пум, ''dum'' дум, ''très'' трес
+*In [[Malay language|Malay]], ''gedebak-gedebuk''
+*In [[Polish language|Polish]], ''bum'', ''trach''
+*In [[Portuguese language|Portuguese]], ''crash'', ''boom''
+*In [[Romanian language|Romanian]], ''bum'', ''buf'', ''pac'', ''poc'', ''trosc'', ''zbang''
+*In [[Russian language|Russian]], ''bum'' бум
+*In [[Sinhalese language|Sinhalese]], ''daḍas'' දඩස්
+*In [[Spanish language|Spanish]], ''cuas'', ''pácatelas'', ''pungun''
+*In [[Swedish language|Swedish]], ''krash''
+*In [[Tamil language|Tamil]], ''dhishumm'', ''dhishum''
+*In [[Thai language|Thai]], {{lang|th|โครม}} (''khrom'')
+*In [[Turkish language|Turkish]], ''güm'', ''bam'', ''dıkş'', ''çat'', ''pat'', ''zbam''
+*In [[Vietnamese language|Vietnamese]], ''ầm'', ''rầm''
+
+===Door or floor creaking===
+*In [[Afrikaans language|Afrikaans]], ''kraak''
+*In [[Bulgarian language|Bulgarian]], "скръц" (skratz)
+*In [[Arabic language|Arabic]], ''azeeez'' أزيـــز
+*In [[Catalan language|Catalan]], ''nyieec'', ''nyeeec''
+*In [[Croatian language|Croatian]], ''škrip''
+*In [[Czech language|Czech]], ''vrrzzz'', ''skřííííp''
+*In [[Danish language|Danish]], ''knirk''
+*In [[Dutch language|Dutch]], ''kraak''
+*In [[English language|English]], ''creak''
+*In [[Finnish language|Finnish]], ''kriik'', ''narsk''
+*In [[French language|French]], ''crac''
+*In [[German language|German]], ''knarz''
+*In [[Hindi language|Hindi]], ''charrr''
+*In [[Hungarian language|Hungarian]], ''nyííí''
+*In [[Italian language|Italian]], ''cric crac''
+*In [[Japanese language|Japanese]], ''gī'' {{lang|ja|ギー}}
+*In [[Kazakh language|Kazakh]], ''shiiq шииқ''
+*In [[Korean language|Korean]], ''bbi-guk'' 삐걱
+*In [[Polish language|Polish]], ''skrzyp''
+*In [[Persian language|Persian]], 'γež-γež''' غژ غژ
+*In [[Romanian language|Romanian]], ''scârț''
+*In [[Russian language|Russian]], ''skreep'' скрип
+*In [[Swedish language|Swedish]], ''knarr''
+*In [[Thai language|Thai]], {{lang|th|แอ๊ด}} (''aet'')
+*In [[Turkish language|Turkish]], ''gıcır'', ''gıcırt''
+*In [[Uropi]], ''krak''
+*In [[Vietnamese language|Vietnamese]], ''kétttt'', ''ken két'', ''cọt kẹt'', ''kẽo kẹt''
+
+===Engine back-firing while freewheeling===
+*In [[Batak language|Batak]], ''put-put-put, doput-doput''
+*In [[Italian language|Italian]], ''rrra-tatatatata...''
+*In [[Romanian language|Romanian]], ''pâr pâr''
+*In [[Russian language|Russian]], ''dìr-dìr-dìr'' дыр-дыр-дыр
+
+===Knocking===
+*In [[Afrikaans language|Afrikaans]], ''klop''
+*In [[Batak language|Batak]], ''tok-tok-tok''
+*In [[Bulgarian language|Bulgarian]], ''chuc chuc'' чук чук
+*In [[Catalan language|Catalan]], ''toc toc''
+*In [[Standard Mandarin|Chinese, Mandarin]], ''dang dang dang'' 当当当{{Citation needed|date=November 2011}}
+*In [[Croatian language|Croatian]], ''kuc kuc''
+*In [[Czech language|Czech]], ''ťuk ťuk''
+*In [[Danish Language|Danish]], ''bank bank''
+*In [[Dutch language|Dutch]], ''klop klop''
+*In [[English language|English]], ''knock knock''
+*In [[Finnish language|Finnish]], ''kop kop''
+*In [[Estonian language|Estonian]], ''kopp kopp''
+*In [[French language|French]], ''toc toc''
+*In [[German language|German]], ''klopf klopf''
+*In [[Hebrew language|Hebrew]], ''tuq tuq'' תּוּק־תּוּק<ref group="heb">[http://morfix.mako.co.il/default.aspx?source=searchprovider&q=%D7%AA%D7%95%D7%A7+%D7%AA%D7%95%D7%A7 "תּוּק תּוּק"] in [http://morfix.mako.co.il Morfix online dictionary]</ref>
+*In [[Hindi language|Hindi]], ''thakk thakk''
+*In [[Hungarian language|Hungarian]], ''kop kop''
+*In [[Icelandic language|Icelandic]], ''bank bank''
+*In [[Indonesian language|Indonesian]], ''tok tok''
+*In [[Italian language|Italian]], ''toc toc''
+*In [[Japanese language|Japanese]], {{lang|ja|コツコツ}} (''kotsu kotsu''), ''kon kon'' {{lang|ja|コンコン}}, ''ton ton'' {{lang|ja|トントン}}
+*In [[Korean language|Korean]], ''ddok ddok'' 똑똑
+*In [[Latvian language|Latvian]], ''tuk tuk''
+*In [[Lithuanian language|Lithuanian]], ''tuk tuk''
+*In [[Persian language|Persian]], ''taq-taq''
+*In [[Polish language|Polish]], ''puk-puk''
+*In [[Portuguese language|Portuguese]], ''toc toc'', ''noque noque'', ''truz truz''
+*In [[Romanian language|Romanian]], ''cioc-cioc''
+*In [[Russian language|Russian]], ''tuc-tuc'' тук-тук
+*In [[Spanish language|Spanish]], ''toc toc''
+*In [[Swedish language|Swedish]], ''knack knack''
+*In [[Filipino language|Tagalog]], ''tok tok tok''
+*In [[Thai language|Thai]], {{lang|th|ก๊อก ๆ ๆ}} (''kok kok kok'')
+*In [[Turkish language|Turkish]], ''tak tak''
+*In [[Vietnamese language|Vietnamese]], ''cốc cốc'', ''cộc cộc''
+
+===Strikes===
+
+====Dull strike====
+*In [[Afrikaans language|Afrikaans]], ''doef''
+*In [[Bulgarian language|Bulgarian]], ''toup'' туп, ''khlop'' хлоп
+*In [[Danish language|Danish]], ''bump'', ''dunk''
+*In [[English language|English]], ''knock'', ''bump'', ''rap'', ''thud'', ''boom''
+*In [[Finnish language|Finnish]], ''tök'', ''pöksis''
+*In [[German language|German]], ''klopf'', ''plumps'', ''platsch''
+*In [[Japanese language|Japanese]], ''don'' {{lang|ja|ドン}}, ''zun'' {{lang|ja|ズン}}
+*In [[Korean language|Korean]], ''peok'' 퍽
+*In [[Persian language|Persian]], ''bāmp''
+*In [[Polish language|Polish]], ''łup''
+*In [[Portuguese language|Portuguese]], ''puf'', "pluft", "pum"
+*In [[Russian language|Russian]], ''bats'' бац
+*In [[Romanian language|Romanian]], ''buf!''
+*In [[Spanish language|Spanish]], ''toc''
+*In [[Thai language|Thai]], {{lang|th|ตึง}} (''tueng''), {{lang|th|ตึ้ง}} (''tueng'')
+
+====Falling strike====
+*In [[Afrikaans language|Afrikaans]], ''plof''
+*In [[Bulgarian language|Bulgarian]], ''plyos'' пльос, ''shlyap'' шляп
+*In [[Croatian language|Croatian]], ''pljas''
+*In [[Czech language|Czech]], ''žuch''
+*In [[English language|English]], ''plop'', ''splat'', ''thud''
+*In [[French language|French]], ''floc''
+*In [[German language|German]], ''plumps'', ''patsch''
+*In [[Hungarian language|Hungarian]], ''puff'', ''paff''
+*In [[Japanese language|Japanese]], ''potori'' {{lang|ja|ぽとり}}
+*In [[Korean language|Korean]], ''teok'' 턱
+*In [[Persian language|Persian]], ''dāmb''
+*In [[Portuguese language|Portuguese]], ''ploft'', ''paft'', ''catapluft'', ''pimba''
+*In [[Romanian language|Romanian]], ''pleosc'', ''fleoșc''
+*In [[Russian language|Russian]], ''khlop'' хлоп ''shlyop'' шлёп
+*In [[Spanish language|Spanish]], ''plaf'', ''paf''
+*In [[Tagalog language|Tagalog]]. ''blag'', ''bug''
+*In [[Thai language|Thai]], {{lang|th|โครม}} (''khrohm'')
+*In [[Vietnamese language|Vietnamese]], ''bịch''
+
+====Sharp strike====
+*In [[Afrikaans language|Afrikaans]], ''klingel, kletter  ''
+*In [[Bulgarian language|Bulgarian]], ''dzun'' дзън
+*In [[Catalan language|Catalan]], ''cling''. ''clang'', ''cataclinc-cataclanc''
+*In [[Czech language|Czech]], ''cink''
+*In [[Standard Cantonese|Chinese, Cantonese]], ''bìhng-līng baang-làahng'' 乒鈴嘭唥
+*In [[Standard Mandarin|Chinese, Mandarin]], ''kuāng lāng'' 哐啷,<ref group="zho">[http://www.zdic.net/cd/ci/9/ZdicE5Zdic93Zdic90334193.htm "哐啷"] in [http://zdic.net/ Han Dian online dictionary]</ref> ''guang-dang'' 哐当{{Citation needed|date=November 2011}}
+*In [[Dutch language|Dutch]], ''klink'', ''ring'', ''klingel'', ''rinkel'', ''kletter'', ''tingel''
+*In [[English language|English]], ''clang'', ''clink'', ''clank'', ''clunk'', ''chink'', ''dink'', ''tink'', ''plink'', ''ding'', ''ring'', ''ping'', ''ting'', ''jingle'', ''jangle'', ''tinkle'', ''pow''
+*In [[Finnish language|Finnish]], ''kilin'', ''kolin''
+*In [[French language|French]], ''paf'', ''bim'', ''bam''
+*In [[German language|German]], ''klang'', ''kling'', ''klirr'', ''klimper'', ''klingel'', ''bimmel''
+*In [[Hebrew language|Hebrew]], ''zbang'' זְבֶּנְג<ref group="heb">[http://morfix.mako.co.il/default.aspx?q=%D7%96%D7%91%D7%A0%D7%92&source=milon "זְבֶּנְג"] in [http://morfix.mako.co.il Morfix online dictionary]</ref>
+*In [[Japanese language|Japanese]], {{lang|ja|カーン}} (''kān'')
+*In [[Korean language|Korean]], ''jjaeng'' 쨍, ''ting'' 팅
+*In [[Persian language|Persian]], ''jiring''
+*In [[Portuguese language|Portuguese]], ''pim'', ''plim''
+*In [[Russian language|Russian]], ''dzyn’'' дзынь, ''zvyak'' звяк, ''klatz ''клац
+*In [[Spanish language|Spanish]], ''tintin'', ''tilín''
+*In [[Thai language|Thai]], {{lang|th|ติ๊ง}} (''ting''), {{lang|th|ปิ๊ง}} (''ping'')
+*In [[Vietnamese language|Vietnamese]], ''keng'', ''beng''
+
+====Wet strike====
+*In [[Afrikaans language|Afrikaans]], ''plons, plas, spat ''
+*In [[Bulgarian language|Bulgarian]], "пльок" (plyok)
+*In [[Catalan language|Catalan]], ''xap'', ''xof'', ''patatxap''
+*In [[Croatian language|Croatian]], ''šljap''
+*In [[Czech language|Czech]], ''plesk''
+*In [[Standard Mandarin|Chinese, Mandarin]], ''ba-ji'' 啪唧{{Citation needed|date=November 2011}}
+*In [[Danish language|Danish]], ''plask''
+*In [[Dutch language|Dutch]], ''plons''
+*In [[English language|English]], ''splash'', ''splish'', ''splosh'', ''splat''
+*In [[Estonian language|Estonian]] ''lärts'', ''plärts''
+*In [[Finnish language|Finnish]], ''loiskis'', ''mäts''
+*In [[French language|French]], ''plouf''
+*In [[German language|German]], ''patsch'', ''platsch'', ''klatsch'', ''schwapp''
+*In [[Hungarian language|Hungarian]], ''platty''
+*In [[Indonesian language|Indonesian]], ''crot''
+*In [[Japanese language|Japanese]], ''bicha'' {{lang|ja|びちゃっ}}
+*In [[Korean language|Korean]], ''cheolpudeok'' 철푸덕, ''cheolpeok'' 철퍽
+*In [[Persian language|Persian]], ''čolop-čolop'', ''pešenge''
+*In [[Polish language|Polish]], "plask"
+*In [[Portuguese language|Portuguese]], tchibum
+*In [[Romanian language|Romanian]], ''pleosc'', ''fleoșc'', ''fleașc''
+*In [[Russian language|Russian]], ''bultykh'' бултых, ''plyukh'' плюх
+*In [[Swedish language|Swedish]], ''plask''
+*In [[Tagalog language|Tagalog]], ''plok''
+*In [[Thai language|Thai]], {{lang|th|โพล๊ะ}} (''plo''), {{lang|th|แผละ}} (''plae'')
+*In [[Uropi]], ''plac''
+*In [[Vietnamese language|Vietnamese]], ''bẹp'', ''phọp''
+
+==Machinery==
+
+===Camera shutter===
+*In [[Afrikaans language|Afrikaans]], ''klik''
+*In [[Arabic language|Arabic]], ''chic chic'' تشك تشك
+*In [[Batak language|Batak]], ''ceklek''
+*In [[Bulgarian language|Bulgarian]], ''щрак'' (shtrak)
+*In [[Catalan language|Catalan]], ''cx, cx'' or ''txic''
+*In [[Standard Mandarin|Chinese, Mandarin]], ''kā chā''咔嚓
+*In [[Croatian language|Croatian]], ''klik''
+*In [[Czech language|Czech]], ''cvak''
+*In [[Danish language|Danish]], ''klik''
+*In [[Dutch language|Dutch]], ''klik''
+*In [[English language|English]], ''click''
+*In [[Estonian language|Estonian]] ''klõps'', ''plõks''
+*In [[Finnish language|Finnish]], ''klik''
+*In [[French language|French]], ''clic''
+*In [[German language|German]], ''klick''
+*In [[Hebrew language|Hebrew]], ''chik'' צִ'יק
+*In [[Hungarian language|Hungarian]], ''klikk''
+*In [[Italian language|Italian]], ''clic''
+*In [[Indonesian language|Indonesian]], ''klik''
+*In [[Japanese language|Japanese]], ''pasha'' パシャ
+*In [[Korean language|Korean]], ''chalkak'' 찰칵
+*In [[Latvian language|Latvian]], ''klik klik''
+*In [[Polish language|Polish]], ''pstryk'', ''klik klik''
+*In [[Portuguese language|Portuguese]], ''clic clic''
+*In [[Romanian language|Romanian]], ''clic''
+*In [[Russian language|Russian]], ''shchyolk'' щёлк, ''chik'' чик
+*In [[Spanish language|Spanish]], ''clic''
+*In [[Swedish language|Swedish]], ''klick''
+*In [[Filipino language|Tagalog]], ''klik''
+*In [[Thai language|Thai]], {{lang|th|แชะ}} (''chae'')
+*In [[Turkish language|Turkish]], ''klik'', ''şlak''
+*In [[Uropi]], ''klik''
+*In [[Vietnamese language|Vietnamese]], ''lách cách''
+
+===Car engine revving===
+*In [[Afrikaans language|Afrikaans]], ''wroem,  broem''
+*In [[Arabic language|Arabic]], ''hunn hunn'' هن هــن, ''aan aan'' آن آن
+*In [[batak language|Batak]], "ngong, ngooongngng ..."
+*In [[Bulgarian language|Bulgarian]], "бръм-бръм" (bram-bram)
+*In [[Catalan language|Catalan]], ''rum, rumm''
+*In [[Croatian language|Croatian]], ''brum brum'', vrum vrum''
+*In [[Czech language|Czech]], ''brmmm brmmm''
+*In [[Danish Language|Danish]], ''vrum vrum'', ''brum brum'', ''nøn nøn''
+*In [[Dutch language|Dutch]], ''broem'', ''vroem''
+*In [[English language|English]], ''vroom vroom'', ''broom broom''
+*In [[Finnish language|Finnish]], ''vruum vruum'', ''bruum bruum'', ''prööm prööm'' (spoken)
+*In [[French language|French]], ''vroum vroum''
+*In [[German language|German]], ''brumm brumm'', ''wrumm wrumm''
+*In [[Hebrew language|Hebrew]],  ''aan aan'' אָאן אָאן
+*In [[Hungarian language|Hungarian]], ''brum brumm''
+*In [[Italian language|Italian]], ''brum brum''
+*In [[Japanese language|Japanese]], ''buroro'' {{lang|ja|ブロロ}}
+*In [[Korean language|Korean]], ''bureung bureung'' 부릉부릉
+*In [[Polish language|Polish]], ''brummm... brummmm...''
+*In [[Portuguese language|Portuguese]], ''vruum vruum''
+*In [[Romanian language|Romanian]], ''vrum vrum''
+*In [[Russian language|Russian]], ''rrr'' ppp ''ru ru'' ру ру ''rum rum'' рум рум
+*In [[Spanish language|Spanish]], ''run run''
+*In [[Swedish language|Swedish]], ''brum brum''
+*In [[Telugu language|Telugu]], ''raeyyyyyyy''
+*In [[Thai language|Thai]], {{lang|th|บรื๊น ๆ}} (''bruen bruen'')
+*In [[Turkish language|Turkish]], ''vrum vrum'' (truck), ''han han'' (car)
+*In [[Vietnamese language|Vietnamese]], ''bờ rừm''
+
+===Car horn honking===
+*In [[Afrikaans language|Afrikaans]], ''toet''
+*In [[Arabic language|Arabic]], ''beeb beep'', ''طيط-طيط'' ''ṭiṭ-ṭiṭ''
+*In [[Batak language|Batak]], "tot, tooot"
+*In [[Bulgarian language|Bulgarian]], ''bi-biip'' би-биип
+*In [[Catalan language|Catalan]], ''pipip'', ''mec mec'', ''moc moc''
+*In [[Standard Mandarin|Chinese, Mandarin]], ''ba ba'' 叭叭
+*In [[Croatian language|Croatian]], ''tu tu'', ''bi bip''
+*In [[Czech language|Czech]], ''tů tů''
+*In [[Danish language|Danish]], ''dyt dyt'', ''båt båt''
+*In [[Dutch language|Dutch]], ''toet toet''
+*In [[English language|English]], ''honk honk'', ''beep beep'', ''toot toot''
+*In [[Finnish language|Finnish]], ''tööt tööt''
+*In [[French language|French]], ''tut-tut''
+*In [[German language|German]], ''tut''
+*In [[Greek language|Greek]],  ''bip bip'', ''μπιπ μπιπ''
+*In [[Hebrew language|Hebrew]],  ''bip bip'' בִּיפּ־בִּיפּ
+*In [[Hungarian language|Hungarian]], ''tü-tű'', ''tü-tűt''
+*In [[Indonesian language|Indonesian]], ''din din''
+*In [[Italian language|Italian]], ''bip bip''
+*In [[Japanese language|Japanese]], ''pu pū'' {{lang|ja|ププー}}
+*In [[Korean language|Korean]], ''bbang bbang'' 빵빵
+*In [[Latvian language|Latvian]], ''pī pī''
+*In [[Lithuanian language|Lithuanian]], ''pyp pyp''
+*In [[Norwegian language|Norwegian]], ''bært bært''
+*In [[Polish language|Polish]], ''bib-biiib''
+*In [[Portuguese language|Portuguese]], ''bi-bi'' or ''fon-fon''
+*In [[Romanian language|Romanian]], ''tiiit!  ti-ti!''
+*In [[Russian language|Russian]], ''bi-bi'' би-би, ''bi-bip'' би-бип
+*In [[Spanish language|Spanish]], ''pi pi'', ''pip pip''
+*In [[Swedish language|Swedish]], ''tut tut''
+*In [[Filipino language|Tagalog]], ''bip bip''
+*In [[Telugu language|Telugu]], ''poy ppoy''
+*In [[Thai language|Thai]], {{lang|th|ปี๊น ๆ}} (''pin pin'')
+*In [[Turkish Language|Turkish]], ''düt düt'', ''bip bip'', ''dat dat''
+*In [[Uropi]], ''tut''
+*In [[Vietnamese language|Vietnamese]], ''bim bim'', ''pim pim''
+
+===Clock ticking===
+[[File:Clocks no tic tac.JPG|thumb|right|A sign in a shop window in Italy proclaims "No Tic Tac".]]
+*In [[Afrikaans language|Afrikaans]], ''tik-tok''
+*In [[Batak language|Batak]], ''tik-tak, tik-tak, ...''
+*In [[Bulgarian language|Bulgarian]], ''tic tac'' тик так
+*In [[Standard Mandarin|Chinese, Mandarin]], ''dī dā'' 嘀嗒<ref group="zho">[http://www.zdic.net/cd/ci/14/ZdicE5Zdic98Zdic80334206.htm "嘀嗒"] in [http://zdic.net/ Han Dian online dictionary]</ref>
+*In [[Croatian language|Croatian]], ''tik tak''
+*In [[Czech language|Czech]], ''tik ťak''
+*In [[Danish language|Danish]], ''tik tak''
+*In [[Dutch language|Dutch]], ''tik tak''
+*In [[English Language|English]], ''tick tock''
+*In [[Estonian Language|Estonian]], ''tikk takk''
+*In [[Finnish language|Finnish]], ''tik tak''
+*In [[French Language|French]], ''tic tac''
+*In [[German Language|German]], ''tick tack''
+*In [[Greek language|Greek]], ''tic tac'' τικ τακ
+*In [[Hebrew language|Hebrew]], ''tijq taq'' תִּיק־תַּק<ref group="heb">[http://morfix.mako.co.il/default.aspx?source=searchprovider&q=%D7%AA%D7%99%D7%A7+%D7%AA%D7%A7 "תִּיק־תַּק"] in [http://morfix.mako.co.il Morfix online dictionary]</ref>
+*In [[Hindi Language|Hindi]], ''tic tic''
+*In [[Hungarian language|Hungarian]], ''tik tak''
+*In [[Indonesian language|Indonesian]], ''tik tok''
+*In [[Italian language|Italian]], ''tic tac''
+*In [[Japanese language|Japanese]], {{lang|ja|チクタク}} (''chikutaku''), {{lang|ja|カチカチ}} (''kachi kachi'')
+*In [[Korean language|Korean]] ''ddok-ddak ddok-ddak'' 똑딱똑딱
+*In [[Latvian language|Latvian]], ''tik tak''
+*In [[Lithuanian language|Lithuanian]], ''tik tak''
+*In [[Macedonian language|Macedonian]], ''tic tac'' тик так
+*In [[Nepali language|Nepali]], ''clit caqq''
+*In [[Norwegian Language|Norwegian]] ''tikk takk''
+*In [[Polish language|Polish]], ''tik tak''
+*In [[Portuguese language|Portuguese]], ''tique-taque''
+*In [[Romanian language|Romanian]], ''tic tac''
+*In [[Russian language|Russian]], ''tic-tac'' тик-так
+*In [[Slovene language|Slovene]], ''tik tak''
+*In [[Spanish language|Spanish]], ''tic tac''
+*In [[Swedish language|Swedish]], ''tick tack''
+*In [[Filipino language|Tagalog]], ''tik tak tik tak''
+*In [[Tamil language|Tamil]], ''tik tik''
+*In [[Thai language|Thai]], {{lang|th|ติ๊กต็อก}} (''tiktok'')
+*In [[Turkish language|Turkish]], ''tik tak''
+*In [[Vietnamese language|Vietnamese]], ''tích tắc''
+*In [[Volapük]], ''tiktö''
+
+===Doorbell ringing===
+*In [[Afrikaans language|Afrikaans]], ''trieng''
+*In [[Croatian language|Croatian]], ''din don''
+* In [[Danish language|Danish]], ''ding ding'', ''ring ring''
+* In [[Dutch language|Dutch]], ''tring tring''
+* In [[English language|English]], ''ding-dong'', ''bing-bong''
+* In [[French language|French]], ''ding-dong''
+* In [[German language|German]], ''klingeling''
+* In [[Italian language|Italian]], ''din don''
+* In [[Japanese language|Japanese]], ピンポーン (''pinpōn'')
+* In [[Polish language|Polish]], ''dryń dryń''
+* In [[Romanian language|Romanian]], ''țâr țâr''
+* In [[Russian language|Russian]], ''din-don'' дин-дон
+* In [[Swedish language|Swedish]], ''ding dong'', ''pling plong''
+* In [[Filipino language|Tagalog]], ''ding dong''
+* In [[Thai language|Thai]], {{lang|th|ติ๊งต่อง}} (''ting tong''), {{lang|th|ติ๊งหน่อง}} (''ting nong''),
+* In [[Italian language|Italian]], ''din don''
+
+===Keyboard striking===
+*In [[Batak language|Batak]], ''tik tik''
+*In [[Bulgarian language|Bulgarian]], "трак-трак" (track-track)
+*In [[Catalan language|Catalan]] ''txiquiti-txiquiti'', ''txic txic''.
+*In [[Czech language|Czech]], ''klik'', ''ťuk ťuk''
+*In [[Danish language|Danish]]: ''klik klik''
+*In [[Dutch language|Dutch]]: ''tik tik''
+*In [[English language|English]]: ''click click'', ''click clack'', ''taka taka''
+*In [[Estonian language|Estonian]] ''klõp klõp klõp''
+*In [[Finnish language|Finnish]]: ''klik klik'', ''klik klak'', ''naks'', ''naputinap''
+*In [[French language|French]]: ''clic clic''
+*In [[German language|German]]: ''klack klack klack'' (typewriter), ''tipp tipp tipp'' (computer)
+*In [[Hebrew language|Hebrew]], ''klik klik'', קְלִיק־קְלִיק<ref group="heb">[http://morfix.mako.co.il/default.aspx?source=searchprovider&q=%D7%A7%D7%9C%D7%99%D7%A7 "קְלִיק"] in [http://morfix.mako.co.il Morfix online dictionary]</ref>
+*In [[Italian language|Italian]], ''clic clic'', ''tip tap''
+*In [[Japanese language|Japanese]], ''kata kata'' {{lang|ja|カタカタ}}
+*In [[Polish language|Polish]], ''klik klik''
+*In [[Russian language|Russian]], ''klatz-klatz'' клац-клац
+*In [[Swedish language|Swedish]], ''knapp knapp''
+*In [[Filipino language|Tagalog]], ''chu ku chu ku chuk''
+*In [[Thai language|Thai]], {{lang|th|ก้อกแก้ก}} (''kokkaek'')
+*In [[Turkish language|Turkish]], ''tıkı tıkı tıkı'', ''tıkır tıkır''
+*In [[Vietnamese language|Vietnamese]], ''lạch cạch''
+
+===Match striking===
+*In [[Russian language|Russian]], ''chirk'' чирк
+
+===Telephone ringing===
+*In [[Afrikaans language|Afrikaans]], ''trieng trieng''
+*In [[Arabic language|Arabic]], ''terren terren'' تــرن تــرن
+*In [[Batak language|Batak]], "riiing, riiing..."
+*In [[Bulgarian language|Bulgarian]], ''zan zan'' зън зън
+*In [[Catalan language|Catalan]], ''ring, ring''
+*In [[Chinese language|Chinese, Mandarin]], ''ling ling ling''
+*In [[Croatian language|Croatian]], ''drin drin''
+*In [[Czech language|Czech]], ''crrrrr''
+*In [[Danish language|Danish]], ''ring ring'', ''dingeling''
+*In [[Dutch language|Dutch]], ''tring tring''
+*In [[English language|English]], ''ring ring'', ''brrring brrring'', ''ringaling''
+*In [[Estonian language|Estonian]] ''tirr tirr tirr''
+*In [[Finnish language|Finnish]], ''ring ring''
+*In [[French language|French]], ''dring dring''[http://sfx.kennychronicles.com/index.php?title=English-French]
+*In [[German language|German]], ''klingeling'', ''klingelingeling''
+*In [[Hungarian language|Hungarian]], ''csing ling''
+*In [[Indonesian language|Indonesian]], ''kring kring''
+*In [[Italian language|Italian]], ''drin drin''
+*In [[Japanese language|Japanese]], ''jiriririri(n)'' {{lang|ja|ジリリリリ(ン)}}
+*In [[Kazakh language|Kazakh]], ''shyryl-shyryl шырыл шырыл''
+*In [[Korean language|Korean]], "dda reu reung dda reu reung" 따르릉 따르릉
+*In [[Latvian language|Latvian]], ''dzin dzin''
+*In [[Lithuanian language|Lithuanian]], ''dzin dzin'', ''dzin dzilin''
+*In [[Polish language|Polish]], ''dryń dryń''
+*In [[Portuguese language|Portuguese]], ''trimm''
+*In [[Romanian language|Romanian]], ''ţâr-ţâr''
+*In [[Russian language|Russian]], ''dzyn’-dzyn’'' дзынь-дзынь
+*In [[Spanish language|Spanish]], ''rin rin''
+*In [[Swedish language|Swedish]], ''ring ring''
+*In [[Filipino language|Tagalog]], ''kring kring''
+*In [[Thai language|Thai]], {{lang|th|กริ๊ง กริ๊ง}} (''kring kring'')
+*In [[Turkish language|Turkish]], ''zır zır''
+*In [[Vietnamese language|Vietnamese]], ''reng''
+
+===Siren wailing===
+*In [[Afrikaans language|Afrikaans]], ''pie-pô''
+*In [[Bengali language|Bengali]], ''pay puu''
+*In [[Bosnian language|Bosnian]], ''ni-na ni-na ni-na''
+*In [[Bulgarian language|Bulgarian]], "тии-ну-нии-ну" (tii-nu-nii-nu)
+*In [[Catalan language|Catalan]], ''ninu ni'', ''ni no ni no''
+*In [[Croatian language|Croatian]], ''ninu ninu'', ''tinu ninu''
+*In [[Danish language|Danish]], ''ba bu''
+*In [[Dutch language|Dutch]], ''Taatuutaatuu''
+*In [[English Language|English]] ''Nee naw, wee-woo, waow-waow'' (police), ''awooga'' ([[klaxon]]),
+*In [[Estonian language|Estonian]], ''Viiu, viiu'',
+*In [[Filipino language|Filipino]], ''wang wang wang''
+*In [[Finnish language|Finnish]], ''Pii paa'', ''Viiuu viiuu viiuu''
+*In [[French Language|French]], ''Pin Pon''
+*In [[German language|German]], ''Tatütata''
+*In [[Greek language|Greek]], ''eeuu eeuu'' ηου-ηου
+*In [[Hungarian language|Hungarian]], ''nínó'', ''nénó''
+*In [[Italian language|Italian]], ''nino nino''
+*In [[Japanese language|Japanese]], {{lang|ja|ピーポーピーポー}} (''pīpō pīpō'')
+*In [[Korean language|Korean]], ''bbeepo bbeepo'' 삐뽀 삐뽀
+*In [[Latvian language|Latvian]], ''ī-ū''
+*In [[Macedonian language|Macedonian]], ''piu uiu'' пиу уиу
+*In [[Minion language|Minions]], ''mi naw mi naw'' 
+*In [[Norwegian language|Norwegian]], ''Bæ bu bæ bu''
+*In [[Polish language|Polish]], ''ioioioio''
+*In [[Portuguese language|Portuguese]], ''uooooo'' /uóóóóó/, ''uiu uiu uiu'', ''tinóni''
+*In [[Romanian language|Romanian]], ''ni no ni no''
+*In [[Russian language|Russian]], ''wiu-wiu'' виу-виу or уиу-уиу
+*In [[Slovene language|Slovene]], ''uiuiui''
+*In [[Spanish Language|Spanish]] ''Wiu Wiu'', ''nino-nino''
+*In [[Tamil language|Tamil]], ''aaaaaeeen-neeeeen''
+*In [[Thai language|Thai]], {{lang|th|ปี๊ป่อ ปี๊ป่อ}} (''pipo pipo''), {{lang|th|วี้หว่อ วี้หว่อ}} (''wiwo wiwo'')
+*In [[Turkish language|Turkish]], ''Daa dii''
+*In [[Vietnamese language|Vietnamese]], ''ò e í e''
+
+===Train whistling===
+*In [[Afrikaans language|Afrikaans]], ''toe-toe''
+*In [[Bulgarian language|Bulgarian]], ''ту-тууу'' (tu-tuuu) 
+*In [[Catalan language|Catalan]], ''tu tu'', ''tu tuut''
+*In [[Cantonese|Chinese, Cantonese]], ''嗚嗚''
+*In [[Croatian language|Croatian]], ''ču ču''
+*In [[Czech language|Czech]], ''hůůů''
+*In [[Danish language|Danish]], ''fut fut''
+*In [[Dutch language|Dutch]], ''tuutuut''
+*In [[English Language|English]], ''choo, choo, woo woo''
+*In [[French language|French]], ''tchou tchou''
+*In [[Finnish language|Finnish]], ''tuut tuut''
+*In [[Hebrew language|Hebrew]], ''tu-tu'' טוּ־טוּ
+*In [[Hungarian language|Hungarian]], ''si-hu-hu-hu'' 
+*In [[Indonesian language|Indonesian]], "tuuut, tuuut"
+*In [[Italian Language|Italian]], ''ciuf ciuf''
+*In [[Japanese language|Japanese]], ''shuppo shuppo'' {{lang|ja|シュッポシュッポ}}
+*In [[Kazakh language|Kazakh]], ''чу-чуууу''
+*In [[Korean language|Korean]], ''chik chik pok pok'' 칙칙폭폭
+*In [[Latvian language|Latvian]], ''tū tū''
+*In [[Lithuanian language|Lithuanian]], ''tū tū''
+*In [[Polish language|Polish]], ''tu-tuuu''
+*In [[Portuguese language|Portuguese]], ''piuí'' <ref group="por">http://pt.wikipedia.org/wiki/Trem_da_alegria</ref>{{Better source|reason=per WP:CIRCULAR|date=September 2015}}
+*In [[Romanian language|Romanian]], ''u! uuu!''
+*In [[Russian language|Russian]], ''tu-tuu'' ту-туу, ''tu-duu'' ту-дуу
+*In [[Spanish language|Spanish]], ''chu chu''
+*In [[Swedish language|Swedish]], ''tuut-tuut''
+*In [[Filipino language|Tagalog]], ''hup''
+*In [[Telugu language|Telugu]], ''koo chuk chuk''
+*In [[Thai language|Thai]], {{lang|th|ปู๊น ปู๊น}} (''pun pun'')
+*In [[Turkish language|Turkish]], ''çuv çuv''
+
+==Physical and natural phenomena==
+
+===Electric flowing (buzzing)===
+*In [[Afrikaans language|Afrikaans]], ''zoei''
+*In [[English language|English]], ''bzzz'' ''buzz''
+*In [[Hebrew language|Hebrew]], ''bzzz'' בְּזזז, ''tzzz'' טְזְזז
+*In [[Japanese language|Japanese]], ''biri biri'' {{lang|ja|ビリビリ}}
+*In [[Latvian language|Latvian]], ''bzz''
+*In [[Polish language|Polish]], ''bzzzz...''
+*In [[Romanian language|Romanian]], ''bâz bzzz''
+*In [[Swedish language|Swedish]], ''bzzz''
+*In [[Thai language|Thai]], {{lang|th|ตืด}} (''tued'')
+
+===Electric shock===
+*In [[English language|English]], ''zap''
+*In [[Filipino language|Filipino]], ''tssst''
+*In [[Finnish language|Finnish]], ''tsäp''
+*In [[French language|French]], ''xzite''
+*In [[German language|German]], ''zapp''
+*In [[Japanese language|Japanese]], ''biri'' {{lang|ja|ビリッ}}, ''bachi'' {{lang|ja|バチッ}}
+*In [[Polish language|Polish]], "bzzt"
+
+===Fire===
+*In [[Afrikaans language|Afrikaans]], ''knetter''
+*In [[English language|English]], ''crackle crackle''
+*In [[Japanese language|Japanese]], ''Pachi pachi''パチパチ
+*In [[Polish language|Polish]], ''trzask''
+*In [[Swedish language|Swedish]], ''knaster knaster''
+*In [[Thai language|Thai]], {{lang|th|พรึ่บ}} (''prueb''), {{lang|th|พรึ่บ พรั่บ}} (''prueb prub'')
+
+===Lightning===
+*In [[Batak language|Batak]], ''huist''
+*In [[German language|German]], ''zack''
+*In [[Korean language|Korean]], ''bunchuk'' 번쩍
+*In [[Thai language|Thai]], {{lang|th|เปรี้ยง}} (''priang'')
+
+===Steam hissing===
+*In [[Afrikaans language|Afrikaans]], ''sis''
+*In [[Batak language|Batak]], ''ssssss''
+*In [[English language|English]], ''psss''
+*In [[Hebrew language|Hebrew]], ''psss'' פְּססס
+*In [[Japanese language|Japanese]], ''pushū'' {{lang|ja|プシュー}}
+*In [[Romanian language|Romanian]], ''fâs / fsssss''
+*In [[Russian language|Russian]], ''psssh'' пшшш
+*In [[Swedish language|Swedish]], ''pssst''
+*In [[Thai language|Thai]], {{lang|th|ฟู่}} (''fuu'')
+
+===Thunder===
+*In [[Batak language|Batak]], ''rapak'', ''maturapak'', ''dugu-dugu-dugu''
+*In [[English language|English]], ''roll'', ''rumble'',''boom''
+*In [[Finnish language|Finnish]], ''jyrin'', ''jylin''
+*In [[German language|German]], ''groll'', ''grummel''
+*In [[Japanese language|Japanese]], ''goro goro'' {{lang|ja|ゴロゴロ}}
+*In [[Polish language|Polish]], "grzmot"
+*In [[Romanian language|Romanian]], ''bum''
+*In [[Russian language|Russian]], ''babakh'' бабах, ''tararakh'' тарарах, ''trakh-tararakh'' трах-тарарах
+*In [[Swedish language|Swedish]], ''muller''
+*In [[Thai language|Thai]], {{lang|th|ครืน ครืน}} (''kruen kruen'')
+
+===Water dripping===
+*In [[Afrikaans language|Afrikaans]], ''drip''
+*In [[Arabic Language|Arabic]], ''tik tik''
+*In [[Bengali language|Bengali]]: টুপ টুপ ''ṭup ṭup, ''ঢিপ ঢিপ ''ḍhip ḍhip''
+*In [[Bulgarian language|Bulgarian]], "кап-кап", (сар-сар)
+*In [[Standard Cantonese|Chinese, Cantonese]], ''dihk-dihk'' 滴滴
+*In [[Standard Mandarin|Chinese, Mandarin]], ''dī dá'' 滴答<ref group="zho">[http://www.zdic.net/cd/ci/14/ZdicE6ZdicBBZdicB4306465.htm "滴答"] in [http://zdic.net/ Han Dian online dictionary]</ref>
+*In [[Catalan language|Catalan]], ''plip plip''
+*In [[Croatian language|Croatian]], ''kap kap''
+*In [[Czech language|Czech]], ''kap''
+*In [[Danish language|Danish]], ''dryp dryp'' (''dryppe'' is the verbal), ''plop plop''
+*In [[Dutch language|Dutch]], ''drup drup'', ''drip'', ''drop''
+*In [[English language|English]], ''drip drop'', ''plink plonk''
+*In [[Estonian language|Estonian]], ''tilks tilks''
+*In [[Finnish Language|Finnish]], ''tip tip''
+*In [[French Language|French]], ''plic plic/ploc''
+*In [[German Language|German]], ''plitsch'', ''platsch'', ''tropf''
+*In [[Greek Language|Greek]], ''plits plits'' πλιτς πλιτς, ''splats splats'' σπλατς σπλατς
+*In [[Hebrew language|Hebrew]], ''tif taf'' טִיף־טַף
+*In [[Hindi Language|Hindi]], ''tipak, tipak''
+*In [[Hungarian language|Hungarian]], ''csöp-csöp'', ''csip-csöp'' (''csöpp'' or ''csepp'' is also the word for "drop")
+*In [[Indonesian Language|Indonesian]], ''tik tik''
+*In [[Italian language|Italian]], ''plin plin''
+*In [[Japanese language|Japanese]], {{lang|ja|ポツポツ}} (''potsu potsu''), ''pota pota'' {{lang|ja|ポタポタ}}
+*In [[Korean language|Korean]], ''toktok'' 똑똑, ''ddook-ddook'' 뚝뚝
+*In [[Latvian language|Latvian]], ''pik pik''
+*In [[Lithuanian language|Lithuanian]], ''krapt krapt'', ''krap krap''
+*In [[Macedonian language|Macedonian]], ''cap cap'' кап кап
+*In [[Persian language|Persian]], ''ček ček'', 'čak čak''
+*In [[Polish language|Polish]], ''kap kap'' (''kapać'' is the verb)
+*In [[Portuguese language|Portuguese]], ''plim plim'', ''plic plic''
+*In [[Romanian language|Romanian]], ''pic pic''
+*In [[Russian language|Russian]], ''kap kap'' кап-кап
+*In [[Spanish language|Spanish]], ''ploc ploc'', ''pluip pluip''
+*In [[Swedish language|Swedish]], ''dripp dropp''
+*In [[Filipino language|Tagalog]], ''tuk tuk tuk''
+*In [[Tamil language|Tamil]], ''sottu-sottu''
+*In [[Telugu language|Telugu]], ''tup tup''
+*In [[Thai language|Thai]], {{lang|th|ติ๋ง ๆ}} (''ting ting''), {{lang|th|แหมะ ๆ}} (''mae mae'')
+*In [[Turkish language|Turkish]], ''şıp şıp''
+*In [[Uropi]], ''plok''
+*In [[Vietnamese language|Vietnamese]], ''tỏng tỏng'', ''toỏng toỏng'', ''tí tách''
+
+===White water===
+*In [[Batak language|Batak]], "soook"
+
+===Wind blowing or waves flowing===
+*In [[Bengali language|Bengali]], ভোঁ ''bhõ'', শন শন ''shôn shôn'', ঝির ঝির ''jhir jhir''
+*In [[Bulgarian language|Bulgarian]], ''фииуу'' (fiiuu) wind blowing
+*In [[Standard Mandarin|Chinese, Mandarin]], ''fuuu''
+*In [[Croatian language|Croatian]], ''fiju''
+*In [[Czech language|Czech]], ''fíííí''
+*In [[Dutch language|Dutch]], ''woesh'', ''woesj''
+*In [[English language|English]], ''whoo'', ''whoosh'', ''swish'', ''rustle'', ''whine'', ''whizz'', ''whistle'', ''wheeze'', ''howl'', ''zoom'', ''sigh'', ''sough'', ''surf''
+*In [[Finnish language|Finnish]], ''viuuh''
+*In [[French language|French]], ''frou-frou'', ''vromb'', ''murmur'', ''hurl''
+*In [[German language|German]], ''huiiih'', ''wutsch'', ''saus'', ''rausch'', ''wein'', ''schwirr'', ''heul'', ''zoom'', ''surr'', ''seufz''
+*In [[Greek language|Greek]], ''fru fru'' φρού φρού, ''sfýrigh'' σφύριγ, ''url'' ούρλ, ''sýrigh'' σύριγ, ''thýr'' θυρ
+*In [[Hindi language|Hindi]], ''sarr sarr'', ''saayein saayein''
+*In [[Hungarian language|Hungarian]], ''hiss-huss'', ''huss''
+*In [[Italian language|Italian]], ''fiuu'', ''fisch'', ''mormor'', ''url'', ''sussurr''
+*In [[Japanese language|Japanese]], ''byuu byuu'', ''pyuu pyuu'', ''zawa zawa'', ''soyo soyo''
+*In [[Korean language|Korean]], ''wing-wing'' 윙윙
+*In [[Lithuanian language|Lithuanian]], ''ššš''
+*In [[Macedonian language|Macedonian]], ''fuuuu fuuuu'' фуууу фуууу
+*In [[Polish language|Polish]], ''szszszsz'', ''huuuuuu''
+*In [[Portuguese language|Portuguese]], ''Vuuuush''
+*In [[Romanian language|Romanian]], ''vâj''
+*In [[Russian language|Russian]], ''uu-u'' уу-у
+*In [[Spanish language|Spanish]], ''fuuuu fuuuu'', ''fgrrrr frgrrrr'', ''aul'', ''zumb'', ''susurr''
+*In [[Swedish language|Swedish]], ''svisch''
+*In [[Filipino language|Tagalog]], ''fuuuu fuuuu''
+*In [[Tamil language|Tamil]], ''shhhhhhhhhh''
+*In [[Telugu language|Telugu]], ''shhhhhhh''
+*In [[Thai language|Thai]], {{lang|th|วิ้ว วิ้ว}} (''wio wio''), {{lang|th|ฟิ้ว ฟิ้ว}} (''fio fio'')
+*In [[Turkish language|Turkish]], ''vuuuu vuuuu''
+*In [[Vietnamese language|Vietnamese]], ''vi vu'', ''vù vù''; ''rì rào'', ''xào xạc'' (rustling)
+
+==Others==
+
+===Jingling===
+*In [[Afrikaans language|Afrikaans]], ''klingel, klingeling''
+*In [[Armenian language|Armenian]] "զար զանկ" zar zank
+*In [[Standard Cantonese|Chinese, Cantonese]], ''dìuh-díu fihng'' 吊吊捹 (吊 means "hang")
+*In [[Standard Mandarin|Chinese, Mandarin]], ''dīng líng'' 叮铃,<ref group="zho">[http://www.zdic.net/cd/ci/5/ZdicE5Zdic8FZdicAE110696.htm "叮铃"] in [http://zdic.net/ Han Dian online dictionary]</ref> ''dīng dāng'' 叮当 <ref group="zho">[http://www.zdic.net/cd/ci/5/ZdicE5Zdic8FZdicAE352517.htm "叮当"] in [http://zdic.net/ Han Dian online dictionary]</ref>
+*In [[Batak language|Batak]], "giring, giring"
+*In [[Bulgarian language|Bulgarian]], ljush-bash люш-баш, ding-dong динг-донг
+*In [[Croatian language|Croatian]], ''ding dong''
+*In [[Czech Language|Czech]], ''cinky-cink''
+*In [[Dutch Language|Dutch]], ''doing-doing-doing''
+*In [[English Language|English]], ''clink clank'', ''dingle dangle''
+*In [[Estonian language|Estonian]] ''kill-kõll'', ''kilks-kõlks'', ''kilin-kõlin''
+*In [[Finnish language|Finnish]], ''kilin'', ''helin''
+*In [[French language|French]], ''ding-dong''
+*In [[German language|German]], ''klingeling''
+*In [[Hebrew language|Hebrew]],  ''ding-dong'' דִינְג־דוֹנְג<ref group="heb">[http://morfix.mako.co.il/default.aspx?source=searchprovider&q=%D7%93%D7%99%D7%A0%D7%92+%D7%93%D7%95%D7%A0%D7%92 "דִינְג־דוֹנְג"] in [http://morfix.mako.co.il Morfix online dictionary]</ref>
+*In [[Hungarian language|Hungarian]], ''csing-ling'', ''bim-bam'', ''giling-galang''
+*In [[Japanese language|Japanese]], {{lang|ja|チリンチリン}} (''chirin chirin''), {{lang|ja|チーン}} (''chīn'')
+*In [[Korean language|Korean]], ''dallang dallang'' 달랑달랑 ''ttallang ttallang'' 딸랑딸랑 ''jjallang jjallang'' 짤랑짤랑
+*In [[Latvian language|Latvian]], ''dzin dzin''
+*In [[Macedonian language|Macedonian]], ''dang, ding, dong'' данг, динг, донг
+*In [[Polish language|Polish]], ''dzyń-dzyń''
+*In [[Romanian language|Romanian]], ''ding-dong''
+*In [[Russian language|Russian]], ''din'-don'' динь-дон ''dzìnj-dzìnj'' дзынь-дзынь
+*In [[Swedish language|Swedish]], ''dingelidång'' ''kling klang''
+*In [[Filipino language|Tagalog]], ''klang klang''
+*In [[Tamil language|Tamil]], ''sil-sila silu-sila''
+*In [[Thai language|Thai]], {{lang|th|เคร้ง}} (''kreng''), {{lang|th|กรุ๊งกริ๊ง}} (''krung kring'')
+*In [[Turkish language|Turkish]], ''çangır çungur'', ''şangır şungur''
+
+==References== <!-- Use ISO 639-2 for reference group names.-->
+{{Reflist}}
+
+===English words===
+<references group="eng" />
+
+===Greek words===
+<references group="gre" />
+
+===Hebrew words===
+<references group="heb">
+<ref name="safa-ivrit" group="heb">[http://www.safa-ivrit.org/fauna/sounds.php Animals sounds in Hebrew], [http://www.safa-ivrit.org HaSafa-HaIvrit] (The Hebrew Language) web site (in Hebrew)</ref>
+</references>
+
+===Japanese words===
+<references group="jpn" />
+
+===Portuguese words===
+<references group="por" />
+
+===Chinese words===
+<references group="zho" />
+
+===Ukrainian words===
+<references group="uk" />
+
+==External links==
+*[http://www.writtensound.com Written Sound], an online onomatopoeia dictionary
+*[http://web.archive.org/web/20110718050808/http://www.wikidioms.com/idioms-by-category/Onomatopoeia Cross-linguistics onomatopoeia at WikIdioms] (Archived)
+*[http://www.eleceng.adelaide.edu.au/personal/dabbott/animal.html Derek Abbott's, Animal Noises]
+
+{{DEFAULTSORT:Cross-Linguistic Onomatopoeias}}
+[[Category:Onomatopoeia]]
+[[Category:Linguistics]]
+[[Category:Language comparison]]
